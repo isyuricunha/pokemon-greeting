@@ -8,6 +8,6 @@ f.write(f'''<p align="center">
     <img src="{result['sprites']['front_default']}" width="150" height="150">
 </p>
 <h3 align="center">You have been greeted by - <b>{result['name'].title()}</b></h3>
-<h3 align="center">Have a nice day!</h3>
+<h3 align="center">Have a wonderful day!</h3>
 ''')
 f.close()
