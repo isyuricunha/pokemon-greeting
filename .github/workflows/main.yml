@@ -1,15 +1,14 @@
-name: Generate REAME.md File
+name: Generate README.md File
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 */1 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     strategy:
       matrix:
