@@ -1,0 +1,19 @@
+version: 2.1
+jobs:
+  auto_commit:
+    docker:
+      - image: circleci/python:3.8
+    steps:
+      - checkout
+      - run:
+          name: Setup Git
+          command: |
+            git config user.email "circleci@example.com"
+            git config user.name "CircleCI"
+            git remote add origin_gitlab git@gitlab.com:isyuricunha/pokemon-greeting.git
+      - run:
+          name: Push changes to GitLab
+          command: |
+            git add .
+            git commit -m "Automated commit from CircleCI [skip ci]"
+            git push origin_gitlab master
