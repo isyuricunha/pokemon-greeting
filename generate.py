@@ -1,7 +1,7 @@
 import requests, json, random
 
 f = open("./README.md", "w")
-pokemon_id = random.randint(1, 151)
+pokemon_id = random.randint(1, 1025)
 res = requests.get(f'https://pokeapi.co/api/v2/pokemon/{pokemon_id}')
 result = json.loads(res.text)
 f.write(f'''<p align="center">
