@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by - <b>Cottonee</b></h3>
+<h3 align="center">You have been greeted by - <b>Braixen</b></h3>
 <h3 align="center">Have a wonderful day!</h3>
