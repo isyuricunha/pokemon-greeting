@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by - <b>Ursaluna</b></h3>
+<h3 align="center">You have been greeted by - <b>Yanma</b></h3>
 <h3 align="center">Have a wonderful day!</h3>
