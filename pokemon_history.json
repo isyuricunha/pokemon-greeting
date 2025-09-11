@@ -40,5 +40,11 @@
     "pokemon_id": 193,
     "pokemon_name": "Yanma",
     "types": "Bug / Flying"
+  },
+  {
+    "timestamp": "2025-09-11T17:24:48.560973",
+    "pokemon_id": 179,
+    "pokemon_name": "Mareep",
+    "types": "Electric"
   }
 ]

@@ -123,6 +123,13 @@ def get_pokemon_info(pokemon_data: Dict) -> Dict[str, str]:
         Dictionary with Pokemon information
     """
     types = [t['type']['name'].title() for t in pokemon_data.get('types', [])]
+    abilities = [a['ability']['name'].title().replace('-', ' ') for a in pokemon_data.get('abilities', [])]
+    
+    # Get base stats
+    stats = {}
+    for stat in pokemon_data.get('stats', []):
+        stat_name = stat['stat']['name'].replace('-', ' ').title()
+        stats[stat_name] = stat['base_stat']
     
     return {
         'name': pokemon_data['name'].title(),
@@ -130,6 +137,12 @@ def get_pokemon_info(pokemon_data: Dict) -> Dict[str, str]:
         'types': ' / '.join(types),
         'height': f"{pokemon_data.get('height', 0) / 10:.1f} m",
         'weight': f"{pokemon_data.get('weight', 0) / 10:.1f} kg",
+        'abilities': ', '.join(abilities[:2]),  # Show max 2 abilities
+        'hp': stats.get('Hp', 0),
+        'attack': stats.get('Attack', 0),
+        'defense': stats.get('Defense', 0),
+        'speed': stats.get('Speed', 0),
+        'total_stats': sum(stats.values()) if stats else 0
     }
 
 def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: Dict) -> str:
@@ -147,13 +160,44 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
     greeting = random.choice(GREETING_TEMPLATES).format(name=pokemon_info['name'])
     closing = random.choice(CLOSING_MESSAGES)
     
-    content = f'''<p align="center">
-    <img src="{sprite_url}" width="200" height="200" alt="{pokemon_info['name']}">
-</p>
+    # Create stats bar visualization
+    def create_stat_bar(value: int, max_val: int = 255) -> str:
+        """Create a visual stat bar using Unicode blocks."""
+        filled = int((value / max_val) * 10)
+        bar = "█" * filled + "░" * (10 - filled)
+        return f"{bar} {value}"
+
+    content = f'''<div align="center">
+
+<img src="{sprite_url}" width="250" height="250" alt="{pokemon_info['name']}">
 
 # {greeting}
 
-**#{pokemon_info['id']:03d}** • **Type:** {pokemon_info['types']} • **Height:** {pokemon_info['height']} • **Weight:** {pokemon_info['weight']}
+<table>
+<tr>
+<td align="center"><strong>#{pokemon_info['id']:03d}</strong></td>
+<td align="center"><strong>{pokemon_info['types']}</strong></td>
+<td align="center"><strong>{pokemon_info['height']}</strong></td>
+<td align="center"><strong>{pokemon_info['weight']}</strong></td>
+</tr>
+<tr>
+<td align="center">Number</td>
+<td align="center">Type</td>
+<td align="center">Height</td>
+<td align="center">Weight</td>
+</tr>
+</table>
+
+### 🎯 Abilities
+**{pokemon_info['abilities']}**
+
+### 📊 Base Stats (Total: {pokemon_info['total_stats']})
+```
+❤️  HP      {create_stat_bar(pokemon_info['hp'])}
+⚔️  Attack  {create_stat_bar(pokemon_info['attack'])}
+🛡️  Defense {create_stat_bar(pokemon_info['defense'])}
+⚡ Speed   {create_stat_bar(pokemon_info['speed'])}
+```
 
 ## ✨ {closing} ✨
 
@@ -161,11 +205,10 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
 
 ---
 
-<p align="center">
-🌟 <strong>This README is automatically updated every 24 hours with a new Pokémon greeting!</strong> 🌟<br>
-Powered by <a href="https://pokeapi.co/">PokéAPI</a> | Made with ❤️ by <a href="https://github.com/isyuricunha">@isyuricunha</a>
-</p>
-'''
+🌟 **This README is automatically updated every 24 hours with a new Pokémon greeting!** 🌟<br>
+Powered by [PokéAPI](https://pokeapi.co/) | Made with ❤️ by [@isyuricunha](https://github.com/isyuricunha)
+
+</div>'''
     
     return content
 
