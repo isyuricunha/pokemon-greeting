@@ -20,7 +20,7 @@
 </table>
 
 ### 🎯 Abilities
-**Emergency Exit**
+**Emergency Exit** 
 
 ### 📊 Base Stats (Total: 530)
 
