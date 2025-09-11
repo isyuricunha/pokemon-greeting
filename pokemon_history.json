@@ -64,5 +64,11 @@
     "pokemon_id": 768,
     "pokemon_name": "Golisopod",
     "types": "Bug / Water"
+  },
+  {
+    "timestamp": "2025-09-11T20:37:19.440541",
+    "pokemon_id": 381,
+    "pokemon_name": "Latios",
+    "types": "Dragon / Psychic"
   }
 ]
