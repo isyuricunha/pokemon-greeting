@@ -1,18 +1,18 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png" width="200" height="200" alt="Wartortle">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png" width="200" height="200" alt="Rabsca">
     
-    <h1>You have been greeted by <strong>Wartortle</strong></h1>
+    <h1>Say hello to <strong>Rabsca</strong>!</h1>
     
     <p>
-        <strong>#008</strong> • 
-        <strong>Type:</strong> Water • 
-        <strong>Height:</strong> 1.0 m • 
-        <strong>Weight:</strong> 22.5 kg
+        <strong>#954</strong> • 
+        <strong>Type:</strong> Bug / Psychic • 
+        <strong>Height:</strong> 0.3 m • 
+        <strong>Weight:</strong> 3.5 kg
     </p>
     
-    <h2>✨ May your journey be legendary! ✨</h2>
+    <h2>✨ Sending you good vibes! ✨</h2>
     
-    <p><em>Last updated: September 11, 2025 at 17:14 UTC</em></p>
+    <p><em>Last updated: September 11, 2025 at 20:17 UTC</em></p>
 </div>
 
 ---

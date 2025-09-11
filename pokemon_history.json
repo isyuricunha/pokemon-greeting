@@ -16,5 +16,11 @@
     "pokemon_id": 8,
     "pokemon_name": "Wartortle",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-09-11T20:17:44.492800",
+    "pokemon_id": 954,
+    "pokemon_name": "Rabsca",
+    "types": "Bug / Psychic"
   }
 ]
