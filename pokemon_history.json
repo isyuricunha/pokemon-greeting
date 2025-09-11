@@ -4,5 +4,11 @@
     "pokemon_id": 903,
     "pokemon_name": "Sneasler",
     "types": "Fighting / Poison"
+  },
+  {
+    "timestamp": "2025-09-11T20:12:51.332419",
+    "pokemon_id": 150,
+    "pokemon_name": "Mewtwo",
+    "types": "Psychic"
   }
 ]

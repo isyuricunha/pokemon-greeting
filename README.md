@@ -1,14 +1,14 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png" width="150" height="150" alt="Sneasler">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="150" height="150" alt="Mewtwo">
     
-    <h2><b>Sneasler</b> sends you positive vibes!</h2>
+    <h2>You have been greeted by - <b>Mewtwo</b></h2>
     
-    <p><strong>#903</strong> | <strong>Type:</strong> Fighting / Poison</p>
-    <p><strong>Height:</strong> 1.3 m | <strong>Weight:</strong> 43.0 kg</p>
+    <p><strong>#150</strong> | <strong>Type:</strong> Psychic</p>
+    <p><strong>Height:</strong> 2.0 m | <strong>Weight:</strong> 122.0 kg</p>
     
-    <h3>May your day be filled with joy!</h3>
+    <h3>Sending you good vibes!</h3>
     
-    <p><em>Last updated: September 11, 2025 at 16:40 UTC</em></p>
+    <p><em>Last updated: September 11, 2025 at 20:12 UTC</em></p>
 </div>
 
 ---
