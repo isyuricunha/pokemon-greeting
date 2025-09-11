@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" width="250" height="250" alt="Omanyte">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png" width="250" height="250" alt="Golisopod">
 
-# **Omanyte** is here to wish you well!
+# Greetings from **Golisopod**!
 
 <table>
 <tr>
-<td align="center"><strong>#138</strong></td>
-<td align="center"><strong>Rock / Water</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>7.5 kg</strong></td>
+<td align="center"><strong>#768</strong></td>
+<td align="center"><strong>Bug / Water</strong></td>
+<td align="center"><strong>2.0 m</strong></td>
+<td align="center"><strong>108.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Shell Armor**
+**Emergency Exit**
 
-### 📊 Base Stats (Total: 355)
+### 📊 Base Stats (Total: 530)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: September 11, 2025 at 17:27 UTC*
+*Last updated: September 11, 2025 at 20:28 UTC*
 
 ---
 
