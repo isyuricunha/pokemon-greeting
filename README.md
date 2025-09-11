@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png" width="250" height="250" alt="Mareep">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png" width="250" height="250" alt="Basculegion-Male">
 
-# Say hello to **Mareep**!
+# **Basculegion-Male** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#179</strong></td>
-<td align="center"><strong>Electric</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>7.8 kg</strong></td>
+<td align="center"><strong>#902</strong></td>
+<td align="center"><strong>Water / Ghost</strong></td>
+<td align="center"><strong>3.0 m</strong></td>
+<td align="center"><strong>110.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,19 +20,19 @@
 </table>
 
 ### 🎯 Abilities
-**Static, Plus**
+**Swift Swim, Adaptability**
 
-### 📊 Base Stats (Total: 280)
+### 📊 Base Stats (Total: 530)
 ```
-❤️  HP      ██░░░░░░░░ 55
-⚔️  Attack  █░░░░░░░░░ 40
-🛡️  Defense █░░░░░░░░░ 40
-⚡ Speed   █░░░░░░░░░ 35
+❤️  HP      ████░░░░░░ 120
+⚔️  Attack  ████░░░░░░ 112
+🛡️  Defense ██░░░░░░░░ 65
+⚡ Speed   ███░░░░░░░ 78
 ```
 
-## ✨ Have a wonderful day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: September 11, 2025 at 17:24 UTC*
+*Last updated: September 11, 2025 at 20:25 UTC*
 
 ---
 
