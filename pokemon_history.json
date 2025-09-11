@@ -34,5 +34,11 @@
     "pokemon_id": 384,
     "pokemon_name": "Rayquaza",
     "types": "Dragon / Flying"
+  },
+  {
+    "timestamp": "2025-09-11T20:23:17.342765",
+    "pokemon_id": 193,
+    "pokemon_name": "Yanma",
+    "types": "Bug / Flying"
   }
 ]

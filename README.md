@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" width="200" height="200" alt="Rayquaza">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png" width="200" height="200" alt="Yanma">
 </p>
 
-# **Rayquaza** is here to wish you well!
+# Say hello to **Yanma**!
 
-**#384** • **Type:** Dragon / Flying • **Height:** 7.0 m • **Weight:** 206.5 kg
+**#193** • **Type:** Bug / Flying • **Height:** 1.2 m • **Weight:** 38.0 kg
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: September 11, 2025 at 17:21 UTC*
+*Last updated: September 11, 2025 at 20:23 UTC*
 
 ---
 
