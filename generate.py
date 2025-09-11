@@ -25,13 +25,13 @@ HISTORY_FILE = "./pokemon_history.json"
 
 # Greeting templates
 GREETING_TEMPLATES = [
-    "You have been greeted by <strong>{name}</strong>",
-    "A wild <strong>{name}</strong> appeared to greet you!",
-    "<strong>{name}</strong> wants to brighten your day!",
-    "Say hello to <strong>{name}</strong>!",
-    "<strong>{name}</strong> is here to wish you well!",
-    "Greetings from <strong>{name}</strong>!",
-    "<strong>{name}</strong> sends you positive vibes!",
+    "You have been greeted by **{name}**",
+    "A wild **{name}** appeared to greet you!",
+    "**{name}** wants to brighten your day!",
+    "Say hello to **{name}**!",
+    "**{name}** is here to wish you well!",
+    "Greetings from **{name}**!",
+    "**{name}** sends you positive vibes!",
 ]
 
 CLOSING_MESSAGES = [
@@ -147,29 +147,24 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
     greeting = random.choice(GREETING_TEMPLATES).format(name=pokemon_info['name'])
     closing = random.choice(CLOSING_MESSAGES)
     
-    content = f'''<div align="center">
+    content = f'''<p align="center">
     <img src="{sprite_url}" width="200" height="200" alt="{pokemon_info['name']}">
-    
-    <h1>{greeting}</h1>
-    
-    <p>
-        <strong>#{pokemon_info['id']:03d}</strong> • 
-        <strong>Type:</strong> {pokemon_info['types']} • 
-        <strong>Height:</strong> {pokemon_info['height']} • 
-        <strong>Weight:</strong> {pokemon_info['weight']}
-    </p>
-    
-    <h2>✨ {closing} ✨</h2>
-    
-    <p><em>Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M UTC")}</em></p>
-</div>
+</p>
+
+# {greeting}
+
+**#{pokemon_info['id']:03d}** • **Type:** {pokemon_info['types']} • **Height:** {pokemon_info['height']} • **Weight:** {pokemon_info['weight']}
+
+## ✨ {closing} ✨
+
+*Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M UTC")}*
 
 ---
 
-<div align="center">
-    <p>🌟 <strong>This README is automatically updated every 24 hours with a new Pokémon greeting!</strong> 🌟</p>
-    <p>Powered by <a href="https://pokeapi.co/">PokéAPI</a> | Made with ❤️ by <a href="https://github.com/isyuricunha">@isyuricunha</a></p>
-</div>
+<p align="center">
+🌟 <strong>This README is automatically updated every 24 hours with a new Pokémon greeting!</strong> 🌟<br>
+Powered by <a href="https://pokeapi.co/">PokéAPI</a> | Made with ❤️ by <a href="https://github.com/isyuricunha">@isyuricunha</a>
+</p>
 '''
     
     return content

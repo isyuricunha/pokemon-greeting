@@ -22,5 +22,17 @@
     "pokemon_id": 954,
     "pokemon_name": "Rabsca",
     "types": "Bug / Psychic"
+  },
+  {
+    "timestamp": "2025-09-11T17:20:05.004673",
+    "pokemon_id": 44,
+    "pokemon_name": "Gloom",
+    "types": "Grass / Poison"
+  },
+  {
+    "timestamp": "2025-09-11T17:21:02.738934",
+    "pokemon_id": 384,
+    "pokemon_name": "Rayquaza",
+    "types": "Dragon / Flying"
   }
 ]
