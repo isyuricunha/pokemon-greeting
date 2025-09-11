@@ -4,5 +4,17 @@
     "pokemon_id": 903,
     "pokemon_name": "Sneasler",
     "types": "Fighting / Poison"
+  },
+  {
+    "timestamp": "2025-09-11T17:14:20.041376",
+    "pokemon_id": 186,
+    "pokemon_name": "Politoed",
+    "types": "Water"
+  },
+  {
+    "timestamp": "2025-09-11T17:14:56.491819",
+    "pokemon_id": 8,
+    "pokemon_name": "Wartortle",
+    "types": "Water"
   }
 ]
