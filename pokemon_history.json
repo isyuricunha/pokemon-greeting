@@ -52,5 +52,11 @@
     "pokemon_id": 902,
     "pokemon_name": "Basculegion-Male",
     "types": "Water / Ghost"
+  },
+  {
+    "timestamp": "2025-09-11T17:27:31.107236",
+    "pokemon_id": 138,
+    "pokemon_name": "Omanyte",
+    "types": "Rock / Water"
   }
 ]

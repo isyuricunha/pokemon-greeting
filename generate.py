@@ -163,9 +163,9 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
     # Create stats bar visualization
     def create_stat_bar(value: int, max_val: int = 255) -> str:
         """Create a visual stat bar using Unicode blocks."""
-        filled = int((value / max_val) * 10)
-        bar = "█" * filled + "░" * (10 - filled)
-        return f"{bar} {value}"
+        filled = int((value / max_val) * 20)  # Increased length for better visibility
+        bar = "▓" * filled + "░" * (20 - filled)
+        return f"`{bar}`"
 
     content = f'''<div align="center">
 
@@ -192,12 +192,13 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
 **{pokemon_info['abilities']}**
 
 ### 📊 Base Stats (Total: {pokemon_info['total_stats']})
-```
-❤️  HP      {create_stat_bar(pokemon_info['hp'])}
-⚔️  Attack  {create_stat_bar(pokemon_info['attack'])}
-🛡️  Defense {create_stat_bar(pokemon_info['defense'])}
-⚡ Speed   {create_stat_bar(pokemon_info['speed'])}
-```
+
+| Stat | Value | Bar |
+|------|-------|-----|
+| ❤️ HP | {pokemon_info['hp']} | {create_stat_bar(pokemon_info['hp'])} |
+| ⚔️ Attack | {pokemon_info['attack']} | {create_stat_bar(pokemon_info['attack'])} |
+| 🛡️ Defense | {pokemon_info['defense']} | {create_stat_bar(pokemon_info['defense'])} |
+| ⚡ Speed | {pokemon_info['speed']} | {create_stat_bar(pokemon_info['speed'])} |
 
 ## ✨ {closing} ✨
 

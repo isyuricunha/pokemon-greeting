@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png" width="250" height="250" alt="Basculegion-Male">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" width="250" height="250" alt="Omanyte">
 
-# **Basculegion-Male** wants to brighten your day!
+# **Omanyte** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#902</strong></td>
-<td align="center"><strong>Water / Ghost</strong></td>
-<td align="center"><strong>3.0 m</strong></td>
-<td align="center"><strong>110.0 kg</strong></td>
+<td align="center"><strong>#138</strong></td>
+<td align="center"><strong>Rock / Water</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>7.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,19 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Adaptability**
+**Swift Swim, Shell Armor**
 
-### 📊 Base Stats (Total: 530)
-```
-❤️  HP      ████░░░░░░ 120
-⚔️  Attack  ████░░░░░░ 112
-🛡️  Defense ██░░░░░░░░ 65
-⚡ Speed   ███░░░░░░░ 78
-```
+### 📊 Base Stats (Total: 355)
 
-## ✨ Hope you have an amazing day ahead! ✨
+| Stat | Value | Bar |
+|------|-------|-----|
+| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-*Last updated: September 11, 2025 at 20:25 UTC*
+## ✨ May your day be filled with joy! ✨
+
+*Last updated: September 11, 2025 at 17:27 UTC*
 
 ---
 
