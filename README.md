@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png" width="250" height="250" alt="Latios">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" width="250" height="250" alt="Wigglytuff">
 
-# **Latios** is here to wish you well!
+# Greetings from **Wigglytuff**!
 
 <table>
 <tr>
-<td align="center"><strong>#381</strong></td>
-<td align="center"><strong>Dragon / Psychic</strong></td>
-<td align="center"><strong>2.0 m</strong></td>
-<td align="center"><strong>60.0 kg</strong></td>
+<td align="center"><strong>#040</strong></td>
+<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>12.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Levitate**
+**Cute Charm, Competitive**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 435)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: September 11, 2025 at 20:37 UTC*
+*Last updated: September 12, 2025 at 00:59 UTC*
 
 ---
 

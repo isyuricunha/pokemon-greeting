@@ -70,5 +70,11 @@
     "pokemon_id": 381,
     "pokemon_name": "Latios",
     "types": "Dragon / Psychic"
+  },
+  {
+    "timestamp": "2025-09-12T00:59:00.998104",
+    "pokemon_id": 40,
+    "pokemon_name": "Wigglytuff",
+    "types": "Normal / Fairy"
   }
 ]
