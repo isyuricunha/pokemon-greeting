@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" width="250" height="250" alt="Wigglytuff">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png" width="250" height="250" alt="Drednaw">
 
-# Greetings from **Wigglytuff**!
+# Say hello to **Drednaw**!
 
 <table>
 <tr>
-<td align="center"><strong>#040</strong></td>
-<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>#834</strong></td>
+<td align="center"><strong>Water / Rock</strong></td>
 <td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>12.0 kg</strong></td>
+<td align="center"><strong>115.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Cute Charm, Competitive**
+**Strong Jaw, Shell Armor**
 
-### 📊 Base Stats (Total: 435)
+### 📊 Base Stats (Total: 485)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 74 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a fantastic day! ✨
 
-*Last updated: September 12, 2025 at 00:59 UTC*
+*Last updated: September 13, 2025 at 00:57 UTC*
 
 ---
 

@@ -76,5 +76,11 @@
     "pokemon_id": 40,
     "pokemon_name": "Wigglytuff",
     "types": "Normal / Fairy"
+  },
+  {
+    "timestamp": "2025-09-13T00:57:06.135309",
+    "pokemon_id": 834,
+    "pokemon_name": "Drednaw",
+    "types": "Water / Rock"
   }
 ]
