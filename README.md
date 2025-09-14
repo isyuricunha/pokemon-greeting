@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png" width="250" height="250" alt="Drednaw">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png" width="250" height="250" alt="Klang">
 
-# Say hello to **Drednaw**!
+# **Klang** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#834</strong></td>
-<td align="center"><strong>Water / Rock</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>115.5 kg</strong></td>
+<td align="center"><strong>#600</strong></td>
+<td align="center"><strong>Steel</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>51.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Strong Jaw, Shell Armor**
+**Plus, Minus**
 
-### 📊 Base Stats (Total: 485)
+### 📊 Base Stats (Total: 440)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 74 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: September 13, 2025 at 00:57 UTC*
+*Last updated: September 14, 2025 at 01:05 UTC*
 
 ---
 

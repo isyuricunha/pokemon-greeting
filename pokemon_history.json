@@ -82,5 +82,11 @@
     "pokemon_id": 834,
     "pokemon_name": "Drednaw",
     "types": "Water / Rock"
+  },
+  {
+    "timestamp": "2025-09-14T01:05:05.680198",
+    "pokemon_id": 600,
+    "pokemon_name": "Klang",
+    "types": "Steel"
   }
 ]
