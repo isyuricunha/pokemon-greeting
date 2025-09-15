@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png" width="250" height="250" alt="Klang">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png" width="250" height="250" alt="Ralts">
 
-# **Klang** sends you positive vibes!
+# Say hello to **Ralts**!
 
 <table>
 <tr>
-<td align="center"><strong>#600</strong></td>
-<td align="center"><strong>Steel</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>51.0 kg</strong></td>
+<td align="center"><strong>#280</strong></td>
+<td align="center"><strong>Psychic / Fairy</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>6.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Plus, Minus**
+**Synchronize, Trace**
 
-### 📊 Base Stats (Total: 440)
+### 📊 Base Stats (Total: 198)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 28 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: September 14, 2025 at 01:05 UTC*
+*Last updated: September 15, 2025 at 01:05 UTC*
 
 ---
 

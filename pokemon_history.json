@@ -88,5 +88,11 @@
     "pokemon_id": 600,
     "pokemon_name": "Klang",
     "types": "Steel"
+  },
+  {
+    "timestamp": "2025-09-15T01:05:26.864363",
+    "pokemon_id": 280,
+    "pokemon_name": "Ralts",
+    "types": "Psychic / Fairy"
   }
 ]
