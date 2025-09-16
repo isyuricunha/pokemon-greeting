@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png" width="250" height="250" alt="Ralts">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" width="250" height="250" alt="Ting-Lu">
 
-# Say hello to **Ralts**!
+# **Ting-Lu** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#280</strong></td>
-<td align="center"><strong>Psychic / Fairy</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>6.6 kg</strong></td>
+<td align="center"><strong>#1003</strong></td>
+<td align="center"><strong>Dark / Ground</strong></td>
+<td align="center"><strong>2.7 m</strong></td>
+<td align="center"><strong>699.7 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Synchronize, Trace**
+**Vessel Of Ruin**
 
-### 📊 Base Stats (Total: 198)
+### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 28 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 155 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: September 15, 2025 at 01:05 UTC*
+*Last updated: September 16, 2025 at 01:00 UTC*
 
 ---
 
