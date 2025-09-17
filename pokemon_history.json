@@ -100,5 +100,11 @@
     "pokemon_id": 1003,
     "pokemon_name": "Ting-Lu",
     "types": "Dark / Ground"
+  },
+  {
+    "timestamp": "2025-09-17T00:59:57.346711",
+    "pokemon_id": 953,
+    "pokemon_name": "Rellor",
+    "types": "Bug"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" width="250" height="250" alt="Ting-Lu">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png" width="250" height="250" alt="Rellor">
 
-# **Ting-Lu** wants to brighten your day!
+# **Rellor** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#1003</strong></td>
-<td align="center"><strong>Dark / Ground</strong></td>
-<td align="center"><strong>2.7 m</strong></td>
-<td align="center"><strong>699.7 kg</strong></td>
+<td align="center"><strong>#953</strong></td>
+<td align="center"><strong>Bug</strong></td>
+<td align="center"><strong>0.2 m</strong></td>
+<td align="center"><strong>1.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Vessel Of Ruin**
+**Compound Eyes, Shed Skin**
 
-### 📊 Base Stats (Total: 570)
+### 📊 Base Stats (Total: 270)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 155 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
-| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 41 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: September 16, 2025 at 01:00 UTC*
+*Last updated: September 17, 2025 at 00:59 UTC*
 
 ---
 
