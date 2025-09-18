@@ -106,5 +106,11 @@
     "pokemon_id": 953,
     "pokemon_name": "Rellor",
     "types": "Bug"
+  },
+  {
+    "timestamp": "2025-09-18T00:59:35.629197",
+    "pokemon_id": 470,
+    "pokemon_name": "Leafeon",
+    "types": "Grass"
   }
 ]

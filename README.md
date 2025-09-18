@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png" width="250" height="250" alt="Rellor">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png" width="250" height="250" alt="Leafeon">
 
-# **Rellor** is here to wish you well!
+# You have been greeted by **Leafeon**
 
 <table>
 <tr>
-<td align="center"><strong>#953</strong></td>
-<td align="center"><strong>Bug</strong></td>
-<td align="center"><strong>0.2 m</strong></td>
-<td align="center"><strong>1.0 kg</strong></td>
+<td align="center"><strong>#470</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>25.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Compound Eyes, Shed Skin**
+**Leaf Guard, Chlorophyll**
 
-### 📊 Base Stats (Total: 270)
+### 📊 Base Stats (Total: 525)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 41 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: September 17, 2025 at 00:59 UTC*
+*Last updated: September 18, 2025 at 00:59 UTC*
 
 ---
 
