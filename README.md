@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png" width="250" height="250" alt="Leafeon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png" width="250" height="250" alt="Zygarde-50">
 
-# You have been greeted by **Leafeon**
+# Greetings from **Zygarde-50**!
 
 <table>
 <tr>
-<td align="center"><strong>#470</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>25.5 kg</strong></td>
+<td align="center"><strong>#718</strong></td>
+<td align="center"><strong>Dragon / Ground</strong></td>
+<td align="center"><strong>5.0 m</strong></td>
+<td align="center"><strong>305.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Leaf Guard, Chlorophyll**
+**Aura Break**
 
-### 📊 Base Stats (Total: 525)
+### 📊 Base Stats (Total: 600)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ❤️ HP | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 121 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
 | ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: September 18, 2025 at 00:59 UTC*
+*Last updated: September 19, 2025 at 01:01 UTC*
 
 ---
 

@@ -112,5 +112,11 @@
     "pokemon_id": 470,
     "pokemon_name": "Leafeon",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2025-09-19T01:01:47.724508",
+    "pokemon_id": 718,
+    "pokemon_name": "Zygarde-50",
+    "types": "Dragon / Ground"
   }
 ]
