@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png" width="250" height="250" alt="Zygarde-50">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png" width="250" height="250" alt="Diglett">
 
-# Greetings from **Zygarde-50**!
+# **Diglett** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#718</strong></td>
-<td align="center"><strong>Dragon / Ground</strong></td>
-<td align="center"><strong>5.0 m</strong></td>
-<td align="center"><strong>305.0 kg</strong></td>
+<td align="center"><strong>#050</strong></td>
+<td align="center"><strong>Ground</strong></td>
+<td align="center"><strong>0.2 m</strong></td>
+<td align="center"><strong>0.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Aura Break**
+**Sand Veil, Arena Trap**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 265)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 121 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ❤️ HP | 10 | `░░░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
 | ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: September 19, 2025 at 01:01 UTC*
+*Last updated: September 20, 2025 at 00:59 UTC*
 
 ---
 
