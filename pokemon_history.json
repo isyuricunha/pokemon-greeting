@@ -124,5 +124,11 @@
     "pokemon_id": 50,
     "pokemon_name": "Diglett",
     "types": "Ground"
+  },
+  {
+    "timestamp": "2025-09-21T01:06:44.373014",
+    "pokemon_id": 472,
+    "pokemon_name": "Gliscor",
+    "types": "Ground / Flying"
   }
 ]

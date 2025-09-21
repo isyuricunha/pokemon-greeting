@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png" width="250" height="250" alt="Diglett">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png" width="250" height="250" alt="Gliscor">
 
-# **Diglett** is here to wish you well!
+# **Gliscor** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#050</strong></td>
-<td align="center"><strong>Ground</strong></td>
-<td align="center"><strong>0.2 m</strong></td>
-<td align="center"><strong>0.8 kg</strong></td>
+<td align="center"><strong>#472</strong></td>
+<td align="center"><strong>Ground / Flying</strong></td>
+<td align="center"><strong>2.0 m</strong></td>
+<td align="center"><strong>42.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sand Veil, Arena Trap**
+**Hyper Cutter, Sand Veil**
 
-### 📊 Base Stats (Total: 265)
+### 📊 Base Stats (Total: 510)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 10 | `░░░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
 | ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: September 20, 2025 at 00:59 UTC*
+*Last updated: September 21, 2025 at 01:06 UTC*
 
 ---
 
