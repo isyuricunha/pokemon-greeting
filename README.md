@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png" width="250" height="250" alt="Gliscor">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png" width="250" height="250" alt="Lairon">
 
-# **Gliscor** is here to wish you well!
+# Say hello to **Lairon**!
 
 <table>
 <tr>
-<td align="center"><strong>#472</strong></td>
-<td align="center"><strong>Ground / Flying</strong></td>
-<td align="center"><strong>2.0 m</strong></td>
-<td align="center"><strong>42.5 kg</strong></td>
+<td align="center"><strong>#305</strong></td>
+<td align="center"><strong>Steel / Rock</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>120.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Hyper Cutter, Sand Veil**
+**Sturdy, Rock Head**
 
-### 📊 Base Stats (Total: 510)
+### 📊 Base Stats (Total: 430)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: September 21, 2025 at 01:06 UTC*
+*Last updated: September 22, 2025 at 01:06 UTC*
 
 ---
 

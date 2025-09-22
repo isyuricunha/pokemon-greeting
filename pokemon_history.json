@@ -130,5 +130,11 @@
     "pokemon_id": 472,
     "pokemon_name": "Gliscor",
     "types": "Ground / Flying"
+  },
+  {
+    "timestamp": "2025-09-22T01:06:06.781815",
+    "pokemon_id": 305,
+    "pokemon_name": "Lairon",
+    "types": "Steel / Rock"
   }
 ]
