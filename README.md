@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png" width="250" height="250" alt="Lairon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png" width="250" height="250" alt="Veluza">
 
-# Say hello to **Lairon**!
+# You have been greeted by **Veluza**
 
 <table>
 <tr>
-<td align="center"><strong>#305</strong></td>
-<td align="center"><strong>Steel / Rock</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>120.0 kg</strong></td>
+<td align="center"><strong>#976</strong></td>
+<td align="center"><strong>Water / Psychic</strong></td>
+<td align="center"><strong>2.5 m</strong></td>
+<td align="center"><strong>90.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sturdy, Rock Head**
+**Mold Breaker, Sharpness**
 
-### 📊 Base Stats (Total: 430)
+### 📊 Base Stats (Total: 478)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 102 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: September 22, 2025 at 01:06 UTC*
+*Last updated: September 23, 2025 at 01:00 UTC*
 
 ---
 
