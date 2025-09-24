@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png" width="250" height="250" alt="Veluza">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png" width="250" height="250" alt="Whirlipede">
 
-# You have been greeted by **Veluza**
+# Greetings from **Whirlipede**!
 
 <table>
 <tr>
-<td align="center"><strong>#976</strong></td>
-<td align="center"><strong>Water / Psychic</strong></td>
-<td align="center"><strong>2.5 m</strong></td>
-<td align="center"><strong>90.0 kg</strong></td>
+<td align="center"><strong>#544</strong></td>
+<td align="center"><strong>Bug / Poison</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>58.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Mold Breaker, Sharpness**
+**Poison Point, Swarm**
 
-### 📊 Base Stats (Total: 478)
+### 📊 Base Stats (Total: 360)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 102 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 99 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 47 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: September 23, 2025 at 01:00 UTC*
+*Last updated: September 24, 2025 at 01:01 UTC*
 
 ---
 

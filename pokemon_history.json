@@ -142,5 +142,11 @@
     "pokemon_id": 976,
     "pokemon_name": "Veluza",
     "types": "Water / Psychic"
+  },
+  {
+    "timestamp": "2025-09-24T01:01:01.485679",
+    "pokemon_id": 544,
+    "pokemon_name": "Whirlipede",
+    "types": "Bug / Poison"
   }
 ]
