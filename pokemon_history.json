@@ -148,5 +148,11 @@
     "pokemon_id": 544,
     "pokemon_name": "Whirlipede",
     "types": "Bug / Poison"
+  },
+  {
+    "timestamp": "2025-09-25T01:01:45.953033",
+    "pokemon_id": 31,
+    "pokemon_name": "Nidoqueen",
+    "types": "Poison / Ground"
   }
 ]
