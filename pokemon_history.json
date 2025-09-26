@@ -154,5 +154,11 @@
     "pokemon_id": 31,
     "pokemon_name": "Nidoqueen",
     "types": "Poison / Ground"
+  },
+  {
+    "timestamp": "2025-09-26T01:01:24.004294",
+    "pokemon_id": 253,
+    "pokemon_name": "Grovyle",
+    "types": "Grass"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" width="250" height="250" alt="Nidoqueen">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png" width="250" height="250" alt="Grovyle">
 
-# Greetings from **Nidoqueen**!
+# **Grovyle** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#031</strong></td>
-<td align="center"><strong>Poison / Ground</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>60.0 kg</strong></td>
+<td align="center"><strong>#253</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>21.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Poison Point, Rivalry**
+**Overgrow, Unburden**
 
-### 📊 Base Stats (Total: 505)
+### 📊 Base Stats (Total: 405)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 87 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: September 25, 2025 at 01:01 UTC*
+*Last updated: September 26, 2025 at 01:01 UTC*
 
 ---
 
