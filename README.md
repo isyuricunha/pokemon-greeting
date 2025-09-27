@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png" width="250" height="250" alt="Grovyle">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png" width="250" height="250" alt="Amaura">
 
-# **Grovyle** is here to wish you well!
+# Greetings from **Amaura**!
 
 <table>
 <tr>
-<td align="center"><strong>#253</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>21.6 kg</strong></td>
+<td align="center"><strong>#698</strong></td>
+<td align="center"><strong>Rock / Ice</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>25.2 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Overgrow, Unburden**
+**Refrigerate, Snow Warning**
 
-### 📊 Base Stats (Total: 405)
+### 📊 Base Stats (Total: 362)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 59 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 46 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: September 26, 2025 at 01:01 UTC*
+*Last updated: September 27, 2025 at 00:58 UTC*
 
 ---
 
