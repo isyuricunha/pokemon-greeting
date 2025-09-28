@@ -166,5 +166,11 @@
     "pokemon_id": 698,
     "pokemon_name": "Amaura",
     "types": "Rock / Ice"
+  },
+  {
+    "timestamp": "2025-09-28T01:07:30.928480",
+    "pokemon_id": 145,
+    "pokemon_name": "Zapdos",
+    "types": "Electric / Flying"
   }
 ]

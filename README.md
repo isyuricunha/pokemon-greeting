@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png" width="250" height="250" alt="Amaura">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png" width="250" height="250" alt="Zapdos">
 
-# Greetings from **Amaura**!
+# **Zapdos** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#698</strong></td>
-<td align="center"><strong>Rock / Ice</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>25.2 kg</strong></td>
+<td align="center"><strong>#145</strong></td>
+<td align="center"><strong>Electric / Flying</strong></td>
+<td align="center"><strong>1.6 m</strong></td>
+<td align="center"><strong>52.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Refrigerate, Snow Warning**
+**Pressure, Static**
 
-### 📊 Base Stats (Total: 362)
+### 📊 Base Stats (Total: 580)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 59 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 46 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: September 27, 2025 at 00:58 UTC*
+*Last updated: September 28, 2025 at 01:07 UTC*
 
 ---
 
