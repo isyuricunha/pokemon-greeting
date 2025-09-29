@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png" width="250" height="250" alt="Zapdos">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png" width="250" height="250" alt="Golem">
 
-# **Zapdos** is here to wish you well!
+# You have been greeted by **Golem**
 
 <table>
 <tr>
-<td align="center"><strong>#145</strong></td>
-<td align="center"><strong>Electric / Flying</strong></td>
-<td align="center"><strong>1.6 m</strong></td>
-<td align="center"><strong>52.6 kg</strong></td>
+<td align="center"><strong>#076</strong></td>
+<td align="center"><strong>Rock / Ground</strong></td>
+<td align="center"><strong>1.4 m</strong></td>
+<td align="center"><strong>300.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Pressure, Static**
+**Rock Head, Sturdy**
 
-### 📊 Base Stats (Total: 580)
+### 📊 Base Stats (Total: 495)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: September 28, 2025 at 01:07 UTC*
+*Last updated: September 29, 2025 at 01:02 UTC*
 
 ---
 

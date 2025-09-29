@@ -172,5 +172,11 @@
     "pokemon_id": 145,
     "pokemon_name": "Zapdos",
     "types": "Electric / Flying"
+  },
+  {
+    "timestamp": "2025-09-29T01:02:51.307347",
+    "pokemon_id": 76,
+    "pokemon_name": "Golem",
+    "types": "Rock / Ground"
   }
 ]
