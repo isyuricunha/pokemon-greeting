@@ -178,5 +178,11 @@
     "pokemon_id": 76,
     "pokemon_name": "Golem",
     "types": "Rock / Ground"
+  },
+  {
+    "timestamp": "2025-09-30T01:02:01.132527",
+    "pokemon_id": 608,
+    "pokemon_name": "Lampent",
+    "types": "Ghost / Fire"
   }
 ]

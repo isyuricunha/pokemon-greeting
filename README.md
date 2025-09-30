@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png" width="250" height="250" alt="Golem">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png" width="250" height="250" alt="Lampent">
 
-# You have been greeted by **Golem**
+# **Lampent** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#076</strong></td>
-<td align="center"><strong>Rock / Ground</strong></td>
-<td align="center"><strong>1.4 m</strong></td>
-<td align="center"><strong>300.0 kg</strong></td>
+<td align="center"><strong>#608</strong></td>
+<td align="center"><strong>Ghost / Fire</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>13.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Rock Head, Sturdy**
+**Flash Fire, Flame Body**
 
-### 📊 Base Stats (Total: 495)
+### 📊 Base Stats (Total: 370)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: September 29, 2025 at 01:02 UTC*
+*Last updated: September 30, 2025 at 01:02 UTC*
 
 ---
 
