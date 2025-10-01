@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png" width="250" height="250" alt="Lampent">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png" width="250" height="250" alt="Treecko">
 
-# **Lampent** is here to wish you well!
+# **Treecko** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#608</strong></td>
-<td align="center"><strong>Ghost / Fire</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>13.0 kg</strong></td>
+<td align="center"><strong>#252</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>5.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Flash Fire, Flame Body**
+**Overgrow, Unburden**
 
-### 📊 Base Stats (Total: 370)
+### 📊 Base Stats (Total: 310)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: September 30, 2025 at 01:02 UTC*
+*Last updated: October 01, 2025 at 01:08 UTC*
 
 ---
 

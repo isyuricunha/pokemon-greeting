@@ -184,5 +184,11 @@
     "pokemon_id": 608,
     "pokemon_name": "Lampent",
     "types": "Ghost / Fire"
+  },
+  {
+    "timestamp": "2025-10-01T01:08:26.147572",
+    "pokemon_id": 252,
+    "pokemon_name": "Treecko",
+    "types": "Grass"
   }
 ]
