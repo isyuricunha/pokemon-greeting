@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png" width="250" height="250" alt="Treecko">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png" width="250" height="250" alt="Starmie">
 
-# **Treecko** is here to wish you well!
+# Say hello to **Starmie**!
 
 <table>
 <tr>
-<td align="center"><strong>#252</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>5.0 kg</strong></td>
+<td align="center"><strong>#121</strong></td>
+<td align="center"><strong>Water / Psychic</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>80.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Overgrow, Unburden**
+**Illuminate, Natural Cure**
 
-### 📊 Base Stats (Total: 310)
+### 📊 Base Stats (Total: 520)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 01, 2025 at 01:08 UTC*
+*Last updated: October 02, 2025 at 01:00 UTC*
 
 ---
 

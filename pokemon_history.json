@@ -190,5 +190,11 @@
     "pokemon_id": 252,
     "pokemon_name": "Treecko",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2025-10-02T01:00:00.165175",
+    "pokemon_id": 121,
+    "pokemon_name": "Starmie",
+    "types": "Water / Psychic"
   }
 ]
