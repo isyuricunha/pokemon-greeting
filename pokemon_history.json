@@ -196,5 +196,11 @@
     "pokemon_id": 121,
     "pokemon_name": "Starmie",
     "types": "Water / Psychic"
+  },
+  {
+    "timestamp": "2025-10-03T00:59:53.687106",
+    "pokemon_id": 553,
+    "pokemon_name": "Krookodile",
+    "types": "Ground / Dark"
   }
 ]
