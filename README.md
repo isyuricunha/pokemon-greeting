@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png" width="250" height="250" alt="Krookodile">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png" width="250" height="250" alt="Gouging-Fire">
 
-# You have been greeted by **Krookodile**
+# **Gouging-Fire** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#553</strong></td>
-<td align="center"><strong>Ground / Dark</strong></td>
-<td align="center"><strong>1.5 m</strong></td>
-<td align="center"><strong>96.3 kg</strong></td>
+<td align="center"><strong>#1020</strong></td>
+<td align="center"><strong>Fire / Dragon</strong></td>
+<td align="center"><strong>3.5 m</strong></td>
+<td align="center"><strong>590.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Intimidate, Moxie**
+**Protosynthesis**
 
-### 📊 Base Stats (Total: 519)
+### 📊 Base Stats (Total: 590)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 117 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 121 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 91 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
 ## ✨ Have a wonderful day! ✨
 
-*Last updated: October 03, 2025 at 00:59 UTC*
+*Last updated: October 04, 2025 at 00:57 UTC*
 
 ---
 

@@ -202,5 +202,11 @@
     "pokemon_id": 553,
     "pokemon_name": "Krookodile",
     "types": "Ground / Dark"
+  },
+  {
+    "timestamp": "2025-10-04T00:57:56.278461",
+    "pokemon_id": 1020,
+    "pokemon_name": "Gouging-Fire",
+    "types": "Fire / Dragon"
   }
 ]
