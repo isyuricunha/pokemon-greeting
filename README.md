@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png" width="250" height="250" alt="Gouging-Fire">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png" width="250" height="250" alt="Sunkern">
 
-# **Gouging-Fire** sends you positive vibes!
+# A wild **Sunkern** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#1020</strong></td>
-<td align="center"><strong>Fire / Dragon</strong></td>
-<td align="center"><strong>3.5 m</strong></td>
-<td align="center"><strong>590.0 kg</strong></td>
+<td align="center"><strong>#191</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>1.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Protosynthesis**
+**Chlorophyll, Solar Power**
 
-### 📊 Base Stats (Total: 590)
+### 📊 Base Stats (Total: 180)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 121 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 91 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: October 04, 2025 at 00:57 UTC*
+*Last updated: October 05, 2025 at 01:06 UTC*
 
 ---
 

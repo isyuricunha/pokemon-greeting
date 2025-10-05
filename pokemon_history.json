@@ -208,5 +208,11 @@
     "pokemon_id": 1020,
     "pokemon_name": "Gouging-Fire",
     "types": "Fire / Dragon"
+  },
+  {
+    "timestamp": "2025-10-05T01:06:29.968584",
+    "pokemon_id": 191,
+    "pokemon_name": "Sunkern",
+    "types": "Grass"
   }
 ]
