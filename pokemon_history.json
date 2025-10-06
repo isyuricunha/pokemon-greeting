@@ -214,5 +214,11 @@
     "pokemon_id": 191,
     "pokemon_name": "Sunkern",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2025-10-06T01:01:59.409190",
+    "pokemon_id": 305,
+    "pokemon_name": "Lairon",
+    "types": "Steel / Rock"
   }
 ]
