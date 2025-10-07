@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png" width="250" height="250" alt="Lairon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png" width="250" height="250" alt="Entei">
 
-# A wild **Lairon** appeared to greet you!
+# **Entei** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#305</strong></td>
-<td align="center"><strong>Steel / Rock</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>120.0 kg</strong></td>
+<td align="center"><strong>#244</strong></td>
+<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>2.1 m</strong></td>
+<td align="center"><strong>198.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sturdy, Rock Head**
+**Pressure, Inner Focus**
 
-### 📊 Base Stats (Total: 430)
+### 📊 Base Stats (Total: 580)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: October 06, 2025 at 01:01 UTC*
+*Last updated: October 07, 2025 at 01:01 UTC*
 
 ---
 
