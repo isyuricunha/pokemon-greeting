@@ -226,5 +226,11 @@
     "pokemon_id": 244,
     "pokemon_name": "Entei",
     "types": "Fire"
+  },
+  {
+    "timestamp": "2025-10-08T01:00:23.233494",
+    "pokemon_id": 604,
+    "pokemon_name": "Eelektross",
+    "types": "Electric"
   }
 ]

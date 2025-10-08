@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png" width="250" height="250" alt="Entei">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png" width="250" height="250" alt="Eelektross">
 
-# **Entei** wants to brighten your day!
+# **Eelektross** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#244</strong></td>
-<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>#604</strong></td>
+<td align="center"><strong>Electric</strong></td>
 <td align="center"><strong>2.1 m</strong></td>
-<td align="center"><strong>198.0 kg</strong></td>
+<td align="center"><strong>80.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Pressure, Inner Focus**
+**Levitate**
 
-### 📊 Base Stats (Total: 580)
+### 📊 Base Stats (Total: 515)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 | ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a fantastic day! ✨
 
-*Last updated: October 07, 2025 at 01:01 UTC*
+*Last updated: October 08, 2025 at 01:00 UTC*
 
 ---
 
