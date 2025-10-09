@@ -232,5 +232,11 @@
     "pokemon_id": 604,
     "pokemon_name": "Eelektross",
     "types": "Electric"
+  },
+  {
+    "timestamp": "2025-10-09T01:02:14.257380",
+    "pokemon_id": 165,
+    "pokemon_name": "Ledyba",
+    "types": "Bug / Flying"
   }
 ]
