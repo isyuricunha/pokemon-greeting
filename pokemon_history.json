@@ -238,5 +238,11 @@
     "pokemon_id": 165,
     "pokemon_name": "Ledyba",
     "types": "Bug / Flying"
+  },
+  {
+    "timestamp": "2025-10-10T01:01:05.768939",
+    "pokemon_id": 314,
+    "pokemon_name": "Illumise",
+    "types": "Bug"
   }
 ]

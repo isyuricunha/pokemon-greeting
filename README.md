@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png" width="250" height="250" alt="Ledyba">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png" width="250" height="250" alt="Illumise">
 
-# **Ledyba** sends you positive vibes!
+# Greetings from **Illumise**!
 
 <table>
 <tr>
-<td align="center"><strong>#165</strong></td>
-<td align="center"><strong>Bug / Flying</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>10.8 kg</strong></td>
+<td align="center"><strong>#314</strong></td>
+<td align="center"><strong>Bug</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>17.7 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swarm, Early Bird**
+**Oblivious, Tinted Lens**
 
-### 📊 Base Stats (Total: 265)
+### 📊 Base Stats (Total: 430)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 47 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 09, 2025 at 01:02 UTC*
+*Last updated: October 10, 2025 at 01:01 UTC*
 
 ---
 
