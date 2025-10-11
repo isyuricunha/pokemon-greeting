@@ -244,5 +244,11 @@
     "pokemon_id": 314,
     "pokemon_name": "Illumise",
     "types": "Bug"
+  },
+  {
+    "timestamp": "2025-10-11T00:58:31.953223",
+    "pokemon_id": 940,
+    "pokemon_name": "Wattrel",
+    "types": "Electric / Flying"
   }
 ]

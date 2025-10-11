@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png" width="250" height="250" alt="Illumise">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png" width="250" height="250" alt="Wattrel">
 
-# Greetings from **Illumise**!
+# **Wattrel** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#314</strong></td>
-<td align="center"><strong>Bug</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>17.7 kg</strong></td>
+<td align="center"><strong>#940</strong></td>
+<td align="center"><strong>Electric / Flying</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>3.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Oblivious, Tinted Lens**
+**Wind Power, Volt Absorb**
 
-### 📊 Base Stats (Total: 430)
+### 📊 Base Stats (Total: 280)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 47 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: October 10, 2025 at 01:01 UTC*
+*Last updated: October 11, 2025 at 00:58 UTC*
 
 ---
 
