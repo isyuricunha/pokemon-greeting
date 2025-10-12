@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png" width="250" height="250" alt="Wattrel">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png" width="250" height="250" alt="Grimer">
 
-# **Wattrel** wants to brighten your day!
+# **Grimer** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#940</strong></td>
-<td align="center"><strong>Electric / Flying</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>3.6 kg</strong></td>
+<td align="center"><strong>#088</strong></td>
+<td align="center"><strong>Poison</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>30.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Wind Power, Volt Absorb**
+**Stench, Sticky Hold**
 
-### 📊 Base Stats (Total: 280)
+### 📊 Base Stats (Total: 325)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: October 11, 2025 at 00:58 UTC*
+*Last updated: October 12, 2025 at 01:04 UTC*
 
 ---
 

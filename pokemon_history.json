@@ -250,5 +250,11 @@
     "pokemon_id": 940,
     "pokemon_name": "Wattrel",
     "types": "Electric / Flying"
+  },
+  {
+    "timestamp": "2025-10-12T01:04:19.291848",
+    "pokemon_id": 88,
+    "pokemon_name": "Grimer",
+    "types": "Poison"
   }
 ]
