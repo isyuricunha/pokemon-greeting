@@ -256,5 +256,11 @@
     "pokemon_id": 88,
     "pokemon_name": "Grimer",
     "types": "Poison"
+  },
+  {
+    "timestamp": "2025-10-13T01:05:43.779241",
+    "pokemon_id": 448,
+    "pokemon_name": "Lucario",
+    "types": "Fighting / Steel"
   }
 ]

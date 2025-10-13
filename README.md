@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png" width="250" height="250" alt="Grimer">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="250" height="250" alt="Lucario">
 
-# **Grimer** sends you positive vibes!
+# Greetings from **Lucario**!
 
 <table>
 <tr>
-<td align="center"><strong>#088</strong></td>
-<td align="center"><strong>Poison</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>30.0 kg</strong></td>
+<td align="center"><strong>#448</strong></td>
+<td align="center"><strong>Fighting / Steel</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>54.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Stench, Sticky Hold**
+**Steadfast, Inner Focus**
 
-### 📊 Base Stats (Total: 325)
+### 📊 Base Stats (Total: 525)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: October 12, 2025 at 01:04 UTC*
+*Last updated: October 13, 2025 at 01:05 UTC*
 
 ---
 
