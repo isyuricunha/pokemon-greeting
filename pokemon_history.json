@@ -262,5 +262,11 @@
     "pokemon_id": 448,
     "pokemon_name": "Lucario",
     "types": "Fighting / Steel"
+  },
+  {
+    "timestamp": "2025-10-14T01:01:29.220573",
+    "pokemon_id": 519,
+    "pokemon_name": "Pidove",
+    "types": "Normal / Flying"
   }
 ]

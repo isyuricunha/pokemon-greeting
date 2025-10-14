@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="250" height="250" alt="Lucario">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png" width="250" height="250" alt="Pidove">
 
-# Greetings from **Lucario**!
+# **Pidove** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#448</strong></td>
-<td align="center"><strong>Fighting / Steel</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>54.0 kg</strong></td>
+<td align="center"><strong>#519</strong></td>
+<td align="center"><strong>Normal / Flying</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>2.1 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Steadfast, Inner Focus**
+**Big Pecks, Super Luck**
 
-### 📊 Base Stats (Total: 525)
+### 📊 Base Stats (Total: 264)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 43 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 13, 2025 at 01:05 UTC*
+*Last updated: October 14, 2025 at 01:01 UTC*
 
 ---
 
