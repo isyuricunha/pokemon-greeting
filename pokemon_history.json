@@ -268,5 +268,11 @@
     "pokemon_id": 519,
     "pokemon_name": "Pidove",
     "types": "Normal / Flying"
+  },
+  {
+    "timestamp": "2025-10-15T01:02:54.003457",
+    "pokemon_id": 268,
+    "pokemon_name": "Cascoon",
+    "types": "Bug"
   }
 ]

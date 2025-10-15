@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png" width="250" height="250" alt="Pidove">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png" width="250" height="250" alt="Cascoon">
 
-# **Pidove** wants to brighten your day!
+# **Cascoon** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#519</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>2.1 kg</strong></td>
+<td align="center"><strong>#268</strong></td>
+<td align="center"><strong>Bug</strong></td>
+<td align="center"><strong>0.7 m</strong></td>
+<td align="center"><strong>11.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Big Pecks, Super Luck**
+**Shed Skin**
 
-### 📊 Base Stats (Total: 264)
+### 📊 Base Stats (Total: 205)
 
 | Stat | Value | Bar |
 |------|-------|-----|
 | ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 43 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 15 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: October 14, 2025 at 01:01 UTC*
+*Last updated: October 15, 2025 at 01:02 UTC*
 
 ---
 
