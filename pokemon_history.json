@@ -274,5 +274,11 @@
     "pokemon_id": 268,
     "pokemon_name": "Cascoon",
     "types": "Bug"
+  },
+  {
+    "timestamp": "2025-10-16T01:02:36.514608",
+    "pokemon_id": 699,
+    "pokemon_name": "Aurorus",
+    "types": "Rock / Ice"
   }
 ]
