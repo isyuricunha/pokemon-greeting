@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png" width="250" height="250" alt="Aurorus">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png" width="250" height="250" alt="Bouffalant">
 
-# **Aurorus** wants to brighten your day!
+# You have been greeted by **Bouffalant**
 
 <table>
 <tr>
-<td align="center"><strong>#699</strong></td>
-<td align="center"><strong>Rock / Ice</strong></td>
-<td align="center"><strong>2.7 m</strong></td>
-<td align="center"><strong>225.0 kg</strong></td>
+<td align="center"><strong>#626</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>1.6 m</strong></td>
+<td align="center"><strong>94.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Refrigerate, Snow Warning**
+**Reckless, Sap Sipper**
 
-### 📊 Base Stats (Total: 521)
+### 📊 Base Stats (Total: 490)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 123 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚔️ Attack | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 72 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: October 16, 2025 at 01:02 UTC*
+*Last updated: October 17, 2025 at 01:02 UTC*
 
 ---
 

@@ -280,5 +280,11 @@
     "pokemon_id": 699,
     "pokemon_name": "Aurorus",
     "types": "Rock / Ice"
+  },
+  {
+    "timestamp": "2025-10-17T01:02:13.720943",
+    "pokemon_id": 626,
+    "pokemon_name": "Bouffalant",
+    "types": "Normal"
   }
 ]
