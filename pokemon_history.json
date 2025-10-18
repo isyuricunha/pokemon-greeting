@@ -286,5 +286,11 @@
     "pokemon_id": 626,
     "pokemon_name": "Bouffalant",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2025-10-18T00:59:34.651978",
+    "pokemon_id": 687,
+    "pokemon_name": "Malamar",
+    "types": "Dark / Psychic"
   }
 ]

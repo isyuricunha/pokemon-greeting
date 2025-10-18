@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png" width="250" height="250" alt="Bouffalant">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png" width="250" height="250" alt="Malamar">
 
-# You have been greeted by **Bouffalant**
+# Greetings from **Malamar**!
 
 <table>
 <tr>
-<td align="center"><strong>#626</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>1.6 m</strong></td>
-<td align="center"><strong>94.6 kg</strong></td>
+<td align="center"><strong>#687</strong></td>
+<td align="center"><strong>Dark / Psychic</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>47.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Reckless, Sap Sipper**
+**Contrary, Suction Cups**
 
-### 📊 Base Stats (Total: 490)
+### 📊 Base Stats (Total: 482)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a wonderful day! ✨
 
-*Last updated: October 17, 2025 at 01:02 UTC*
+*Last updated: October 18, 2025 at 00:59 UTC*
 
 ---
 
