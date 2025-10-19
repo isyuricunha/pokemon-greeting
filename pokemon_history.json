@@ -292,5 +292,11 @@
     "pokemon_id": 687,
     "pokemon_name": "Malamar",
     "types": "Dark / Psychic"
+  },
+  {
+    "timestamp": "2025-10-19T01:09:56.242592",
+    "pokemon_id": 521,
+    "pokemon_name": "Unfezant",
+    "types": "Normal / Flying"
   }
 ]

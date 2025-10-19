@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png" width="250" height="250" alt="Malamar">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png" width="250" height="250" alt="Unfezant">
 
-# Greetings from **Malamar**!
+# You have been greeted by **Unfezant**
 
 <table>
 <tr>
-<td align="center"><strong>#687</strong></td>
-<td align="center"><strong>Dark / Psychic</strong></td>
-<td align="center"><strong>1.5 m</strong></td>
-<td align="center"><strong>47.0 kg</strong></td>
+<td align="center"><strong>#521</strong></td>
+<td align="center"><strong>Normal / Flying</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>29.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Contrary, Suction Cups**
+**Big Pecks, Super Luck**
 
-### 📊 Base Stats (Total: 482)
+### 📊 Base Stats (Total: 488)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 18, 2025 at 00:59 UTC*
+*Last updated: October 19, 2025 at 01:09 UTC*
 
 ---
 
