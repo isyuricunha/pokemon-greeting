@@ -298,5 +298,11 @@
     "pokemon_id": 521,
     "pokemon_name": "Unfezant",
     "types": "Normal / Flying"
+  },
+  {
+    "timestamp": "2025-10-20T01:07:28.823231",
+    "pokemon_id": 705,
+    "pokemon_name": "Sliggoo",
+    "types": "Dragon"
   }
 ]

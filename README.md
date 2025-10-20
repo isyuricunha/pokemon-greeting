@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png" width="250" height="250" alt="Unfezant">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png" width="250" height="250" alt="Sliggoo">
 
-# You have been greeted by **Unfezant**
+# **Sliggoo** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#521</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>29.0 kg</strong></td>
+<td align="center"><strong>#705</strong></td>
+<td align="center"><strong>Dragon</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>17.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Big Pecks, Super Luck**
+**Sap Sipper, Hydration**
 
-### 📊 Base Stats (Total: 488)
+### 📊 Base Stats (Total: 452)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: October 19, 2025 at 01:09 UTC*
+*Last updated: October 20, 2025 at 01:07 UTC*
 
 ---
 
