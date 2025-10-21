@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png" width="250" height="250" alt="Sliggoo">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png" width="250" height="250" alt="Abomasnow">
 
-# **Sliggoo** is here to wish you well!
+# You have been greeted by **Abomasnow**
 
 <table>
 <tr>
-<td align="center"><strong>#705</strong></td>
-<td align="center"><strong>Dragon</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>17.5 kg</strong></td>
+<td align="center"><strong>#460</strong></td>
+<td align="center"><strong>Grass / Ice</strong></td>
+<td align="center"><strong>2.2 m</strong></td>
+<td align="center"><strong>135.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sap Sipper, Hydration**
+**Snow Warning, Soundproof**
 
-### 📊 Base Stats (Total: 452)
+### 📊 Base Stats (Total: 494)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 | ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: October 20, 2025 at 01:07 UTC*
+*Last updated: October 21, 2025 at 01:04 UTC*
 
 ---
 

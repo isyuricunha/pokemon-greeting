@@ -304,5 +304,11 @@
     "pokemon_id": 705,
     "pokemon_name": "Sliggoo",
     "types": "Dragon"
+  },
+  {
+    "timestamp": "2025-10-21T01:04:08.228705",
+    "pokemon_id": 460,
+    "pokemon_name": "Abomasnow",
+    "types": "Grass / Ice"
   }
 ]
