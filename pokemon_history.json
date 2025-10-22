@@ -310,5 +310,11 @@
     "pokemon_id": 460,
     "pokemon_name": "Abomasnow",
     "types": "Grass / Ice"
+  },
+  {
+    "timestamp": "2025-10-22T01:05:12.792696",
+    "pokemon_id": 418,
+    "pokemon_name": "Buizel",
+    "types": "Water"
   }
 ]
