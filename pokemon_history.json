@@ -316,5 +316,11 @@
     "pokemon_id": 418,
     "pokemon_name": "Buizel",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-10-23T01:03:25.508943",
+    "pokemon_id": 980,
+    "pokemon_name": "Clodsire",
+    "types": "Poison / Ground"
   }
 ]

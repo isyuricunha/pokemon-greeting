@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png" width="250" height="250" alt="Buizel">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png" width="250" height="250" alt="Clodsire">
 
-# **Buizel** sends you positive vibes!
+# **Clodsire** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#418</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>29.5 kg</strong></td>
+<td align="center"><strong>#980</strong></td>
+<td align="center"><strong>Poison / Ground</strong></td>
+<td align="center"><strong>1.8 m</strong></td>
+<td align="center"><strong>223.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Water Veil**
+**Poison Point, Water Absorb**
 
-### 📊 Base Stats (Total: 330)
+### 📊 Base Stats (Total: 430)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a wonderful day! ✨
 
-*Last updated: October 22, 2025 at 01:05 UTC*
+*Last updated: October 23, 2025 at 01:03 UTC*
 
 ---
 
