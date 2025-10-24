@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png" width="250" height="250" alt="Clodsire">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png" width="250" height="250" alt="Ninjask">
 
-# **Clodsire** sends you positive vibes!
+# **Ninjask** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#980</strong></td>
-<td align="center"><strong>Poison / Ground</strong></td>
-<td align="center"><strong>1.8 m</strong></td>
-<td align="center"><strong>223.0 kg</strong></td>
+<td align="center"><strong>#291</strong></td>
+<td align="center"><strong>Bug / Flying</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>12.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Poison Point, Water Absorb**
+**Speed Boost, Infiltrator**
 
-### 📊 Base Stats (Total: 430)
+### 📊 Base Stats (Total: 456)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 61 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 160 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: October 23, 2025 at 01:03 UTC*
+*Last updated: October 24, 2025 at 01:00 UTC*
 
 ---
 

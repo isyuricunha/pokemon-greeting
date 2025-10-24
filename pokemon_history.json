@@ -322,5 +322,11 @@
     "pokemon_id": 980,
     "pokemon_name": "Clodsire",
     "types": "Poison / Ground"
+  },
+  {
+    "timestamp": "2025-10-24T01:00:10.865890",
+    "pokemon_id": 291,
+    "pokemon_name": "Ninjask",
+    "types": "Bug / Flying"
   }
 ]
