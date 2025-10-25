@@ -328,5 +328,11 @@
     "pokemon_id": 291,
     "pokemon_name": "Ninjask",
     "types": "Bug / Flying"
+  },
+  {
+    "timestamp": "2025-10-25T01:01:27.991853",
+    "pokemon_id": 642,
+    "pokemon_name": "Thundurus-Incarnate",
+    "types": "Electric / Flying"
   }
 ]

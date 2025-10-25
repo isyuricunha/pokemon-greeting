@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png" width="250" height="250" alt="Ninjask">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png" width="250" height="250" alt="Thundurus-Incarnate">
 
-# **Ninjask** is here to wish you well!
+# **Thundurus-Incarnate** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#291</strong></td>
-<td align="center"><strong>Bug / Flying</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>12.0 kg</strong></td>
+<td align="center"><strong>#642</strong></td>
+<td align="center"><strong>Electric / Flying</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>61.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Speed Boost, Infiltrator**
+**Prankster, Defiant**
 
-### 📊 Base Stats (Total: 456)
+### 📊 Base Stats (Total: 580)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 61 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 160 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
+| ❤️ HP | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 111 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 24, 2025 at 01:00 UTC*
+*Last updated: October 25, 2025 at 01:01 UTC*
 
 ---
 
