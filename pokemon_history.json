@@ -334,5 +334,11 @@
     "pokemon_id": 642,
     "pokemon_name": "Thundurus-Incarnate",
     "types": "Electric / Flying"
+  },
+  {
+    "timestamp": "2025-10-26T01:08:16.927236",
+    "pokemon_id": 547,
+    "pokemon_name": "Whimsicott",
+    "types": "Grass / Fairy"
   }
 ]
