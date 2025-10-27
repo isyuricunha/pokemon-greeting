@@ -340,5 +340,11 @@
     "pokemon_id": 547,
     "pokemon_name": "Whimsicott",
     "types": "Grass / Fairy"
+  },
+  {
+    "timestamp": "2025-10-27T01:09:32.242423",
+    "pokemon_id": 556,
+    "pokemon_name": "Maractus",
+    "types": "Grass"
   }
 ]

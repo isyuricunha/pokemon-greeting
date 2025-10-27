@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png" width="250" height="250" alt="Whimsicott">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png" width="250" height="250" alt="Maractus">
 
-# You have been greeted by **Whimsicott**
+# A wild **Maractus** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#547</strong></td>
-<td align="center"><strong>Grass / Fairy</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>6.6 kg</strong></td>
+<td align="center"><strong>#556</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>28.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Prankster, Infiltrator**
+**Water Absorb, Chlorophyll**
 
-### 📊 Base Stats (Total: 480)
+### 📊 Base Stats (Total: 461)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 116 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: October 26, 2025 at 01:08 UTC*
+*Last updated: October 27, 2025 at 01:09 UTC*
 
 ---
 
