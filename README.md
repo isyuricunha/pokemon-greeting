@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png" width="250" height="250" alt="Maractus">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png" width="250" height="250" alt="Bruxish">
 
-# A wild **Maractus** appeared to greet you!
+# **Bruxish** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#556</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>28.0 kg</strong></td>
+<td align="center"><strong>#779</strong></td>
+<td align="center"><strong>Water / Psychic</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>19.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Water Absorb, Chlorophyll**
+**Dazzling, Strong Jaw**
 
-### 📊 Base Stats (Total: 461)
+### 📊 Base Stats (Total: 475)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
 ## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: October 27, 2025 at 01:09 UTC*
+*Last updated: October 28, 2025 at 01:02 UTC*
 
 ---
 

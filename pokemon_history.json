@@ -346,5 +346,11 @@
     "pokemon_id": 556,
     "pokemon_name": "Maractus",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2025-10-28T01:02:18.888726",
+    "pokemon_id": 779,
+    "pokemon_name": "Bruxish",
+    "types": "Water / Psychic"
   }
 ]
