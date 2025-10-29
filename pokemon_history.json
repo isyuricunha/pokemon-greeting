@@ -352,5 +352,11 @@
     "pokemon_id": 779,
     "pokemon_name": "Bruxish",
     "types": "Water / Psychic"
+  },
+  {
+    "timestamp": "2025-10-29T01:07:14.000556",
+    "pokemon_id": 150,
+    "pokemon_name": "Mewtwo",
+    "types": "Psychic"
   }
 ]

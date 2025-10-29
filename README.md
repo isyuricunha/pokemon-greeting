@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png" width="250" height="250" alt="Bruxish">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="250" height="250" alt="Mewtwo">
 
-# **Bruxish** is here to wish you well!
+# **Mewtwo** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#779</strong></td>
-<td align="center"><strong>Water / Psychic</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>19.0 kg</strong></td>
+<td align="center"><strong>#150</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>2.0 m</strong></td>
+<td align="center"><strong>122.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Dazzling, Strong Jaw**
+**Pressure, Unnerve**
 
-### 📊 Base Stats (Total: 475)
+### 📊 Base Stats (Total: 680)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: October 28, 2025 at 01:02 UTC*
+*Last updated: October 29, 2025 at 01:07 UTC*
 
 ---
 
