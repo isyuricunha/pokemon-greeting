@@ -364,5 +364,11 @@
     "pokemon_id": 678,
     "pokemon_name": "Meowstic-Male",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2025-10-31T01:04:34.441383",
+    "pokemon_id": 554,
+    "pokemon_name": "Darumaka",
+    "types": "Fire"
   }
 ]

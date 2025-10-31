@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png" width="250" height="250" alt="Meowstic-Male">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png" width="250" height="250" alt="Darumaka">
 
-# **Meowstic-Male** is here to wish you well!
+# **Darumaka** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#678</strong></td>
-<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>#554</strong></td>
+<td align="center"><strong>Fire</strong></td>
 <td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>8.5 kg</strong></td>
+<td align="center"><strong>37.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Infiltrator**
+**Hustle, Inner Focus**
 
-### 📊 Base Stats (Total: 466)
+### 📊 Base Stats (Total: 315)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 74 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 104 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: October 30, 2025 at 01:06 UTC*
+*Last updated: October 31, 2025 at 01:04 UTC*
 
 ---
 
