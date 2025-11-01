@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png" width="250" height="250" alt="Darumaka">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png" width="250" height="250" alt="Kangaskhan">
 
-# **Darumaka** sends you positive vibes!
+# **Kangaskhan** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#554</strong></td>
-<td align="center"><strong>Fire</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>37.5 kg</strong></td>
+<td align="center"><strong>#115</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>2.2 m</strong></td>
+<td align="center"><strong>80.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Hustle, Inner Focus**
+**Early Bird, Scrappy**
 
-### 📊 Base Stats (Total: 315)
+### 📊 Base Stats (Total: 490)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 31, 2025 at 01:04 UTC*
+*Last updated: November 01, 2025 at 01:08 UTC*
 
 ---
 

@@ -370,5 +370,11 @@
     "pokemon_id": 554,
     "pokemon_name": "Darumaka",
     "types": "Fire"
+  },
+  {
+    "timestamp": "2025-11-01T01:08:04.753926",
+    "pokemon_id": 115,
+    "pokemon_name": "Kangaskhan",
+    "types": "Normal"
   }
 ]
