@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png" width="250" height="250" alt="Tapu-Lele">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" width="250" height="250" alt="Chansey">
 
-# **Tapu-Lele** sends you positive vibes!
+# A wild **Chansey** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#786</strong></td>
-<td align="center"><strong>Psychic / Fairy</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>18.6 kg</strong></td>
+<td align="center"><strong>#113</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>34.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Psychic Surge, Telepathy**
+**Natural Cure, Serene Grace**
 
-### 📊 Base Stats (Total: 570)
+### 📊 Base Stats (Total: 450)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 250 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` |
+| ⚔️ Attack | 5 | `░░░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 5 | `░░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 02, 2025 at 01:08 UTC*
+*Last updated: November 02, 2025 at 21:36 UTC*
 
 ---
 

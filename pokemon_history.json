@@ -382,5 +382,11 @@
     "pokemon_id": 786,
     "pokemon_name": "Tapu-Lele",
     "types": "Psychic / Fairy"
+  },
+  {
+    "timestamp": "2025-11-02T21:36:31.145328",
+    "pokemon_id": 113,
+    "pokemon_name": "Chansey",
+    "types": "Normal"
   }
 ]
