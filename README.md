@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png" width="250" height="250" alt="Kangaskhan">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png" width="250" height="250" alt="Tapu-Lele">
 
-# **Kangaskhan** wants to brighten your day!
+# **Tapu-Lele** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#115</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>2.2 m</strong></td>
-<td align="center"><strong>80.0 kg</strong></td>
+<td align="center"><strong>#786</strong></td>
+<td align="center"><strong>Psychic / Fairy</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>18.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Early Bird, Scrappy**
+**Psychic Surge, Telepathy**
 
-### 📊 Base Stats (Total: 490)
+### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 01, 2025 at 01:08 UTC*
+*Last updated: November 02, 2025 at 01:08 UTC*
 
 ---
 

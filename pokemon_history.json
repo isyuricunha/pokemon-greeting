@@ -376,5 +376,11 @@
     "pokemon_id": 115,
     "pokemon_name": "Kangaskhan",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2025-11-02T01:08:42.120583",
+    "pokemon_id": 786,
+    "pokemon_name": "Tapu-Lele",
+    "types": "Psychic / Fairy"
   }
 ]
