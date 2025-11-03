@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" width="250" height="250" alt="Chansey">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png" width="250" height="250" alt="Archeops">
 
-# A wild **Chansey** appeared to greet you!
+# **Archeops** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#113</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>1.1 m</strong></td>
-<td align="center"><strong>34.6 kg</strong></td>
+<td align="center"><strong>#567</strong></td>
+<td align="center"><strong>Rock / Flying</strong></td>
+<td align="center"><strong>1.4 m</strong></td>
+<td align="center"><strong>32.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Natural Cure, Serene Grace**
+**Defeatist**
 
-### 📊 Base Stats (Total: 450)
+### 📊 Base Stats (Total: 567)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 250 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` |
-| ⚔️ Attack | 5 | `░░░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 5 | `░░░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: November 02, 2025 at 21:36 UTC*
+*Last updated: November 03, 2025 at 01:08 UTC*
 
 ---
 

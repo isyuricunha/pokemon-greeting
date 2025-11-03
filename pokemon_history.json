@@ -388,5 +388,11 @@
     "pokemon_id": 113,
     "pokemon_name": "Chansey",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2025-11-03T01:08:05.195916",
+    "pokemon_id": 567,
+    "pokemon_name": "Archeops",
+    "types": "Rock / Flying"
   }
 ]
