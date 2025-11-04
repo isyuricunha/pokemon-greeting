@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png" width="250" height="250" alt="Archeops">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" width="250" height="250" alt="Machop">
 
-# **Archeops** is here to wish you well!
+# Say hello to **Machop**!
 
 <table>
 <tr>
-<td align="center"><strong>#567</strong></td>
-<td align="center"><strong>Rock / Flying</strong></td>
-<td align="center"><strong>1.4 m</strong></td>
-<td align="center"><strong>32.0 kg</strong></td>
+<td align="center"><strong>#066</strong></td>
+<td align="center"><strong>Fighting</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>19.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Defeatist**
+**Guts, No Guard**
 
-### 📊 Base Stats (Total: 567)
+### 📊 Base Stats (Total: 305)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: November 03, 2025 at 01:08 UTC*
+*Last updated: November 04, 2025 at 01:05 UTC*
 
 ---
 

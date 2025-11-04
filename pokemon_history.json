@@ -394,5 +394,11 @@
     "pokemon_id": 567,
     "pokemon_name": "Archeops",
     "types": "Rock / Flying"
+  },
+  {
+    "timestamp": "2025-11-04T01:05:21.436318",
+    "pokemon_id": 66,
+    "pokemon_name": "Machop",
+    "types": "Fighting"
   }
 ]
