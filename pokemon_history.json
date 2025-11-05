@@ -400,5 +400,11 @@
     "pokemon_id": 66,
     "pokemon_name": "Machop",
     "types": "Fighting"
+  },
+  {
+    "timestamp": "2025-11-05T01:06:32.245475",
+    "pokemon_id": 226,
+    "pokemon_name": "Mantine",
+    "types": "Water / Flying"
   }
 ]

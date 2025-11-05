@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" width="250" height="250" alt="Machop">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png" width="250" height="250" alt="Mantine">
 
-# Say hello to **Machop**!
+# A wild **Mantine** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#066</strong></td>
-<td align="center"><strong>Fighting</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>19.5 kg</strong></td>
+<td align="center"><strong>#226</strong></td>
+<td align="center"><strong>Water / Flying</strong></td>
+<td align="center"><strong>2.1 m</strong></td>
+<td align="center"><strong>220.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Guts, No Guard**
+**Swift Swim, Water Absorb**
 
-### 📊 Base Stats (Total: 305)
+### 📊 Base Stats (Total: 485)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: November 04, 2025 at 01:05 UTC*
+*Last updated: November 05, 2025 at 01:06 UTC*
 
 ---
 
