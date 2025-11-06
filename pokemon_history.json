@@ -406,5 +406,11 @@
     "pokemon_id": 226,
     "pokemon_name": "Mantine",
     "types": "Water / Flying"
+  },
+  {
+    "timestamp": "2025-11-06T01:05:48.919629",
+    "pokemon_id": 376,
+    "pokemon_name": "Metagross",
+    "types": "Steel / Psychic"
   }
 ]

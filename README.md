@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png" width="250" height="250" alt="Mantine">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png" width="250" height="250" alt="Metagross">
 
-# A wild **Mantine** appeared to greet you!
+# **Metagross** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#226</strong></td>
-<td align="center"><strong>Water / Flying</strong></td>
-<td align="center"><strong>2.1 m</strong></td>
-<td align="center"><strong>220.0 kg</strong></td>
+<td align="center"><strong>#376</strong></td>
+<td align="center"><strong>Steel / Psychic</strong></td>
+<td align="center"><strong>1.6 m</strong></td>
+<td align="center"><strong>550.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Water Absorb**
+**Clear Body, Light Metal**
 
-### 📊 Base Stats (Total: 485)
+### 📊 Base Stats (Total: 600)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
 | ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 05, 2025 at 01:06 UTC*
+*Last updated: November 06, 2025 at 01:05 UTC*
 
 ---
 
