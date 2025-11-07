@@ -412,5 +412,11 @@
     "pokemon_id": 376,
     "pokemon_name": "Metagross",
     "types": "Steel / Psychic"
+  },
+  {
+    "timestamp": "2025-11-07T01:05:20.438467",
+    "pokemon_id": 120,
+    "pokemon_name": "Staryu",
+    "types": "Water"
   }
 ]

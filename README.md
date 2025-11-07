@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png" width="250" height="250" alt="Metagross">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" width="250" height="250" alt="Staryu">
 
-# **Metagross** sends you positive vibes!
+# A wild **Staryu** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#376</strong></td>
-<td align="center"><strong>Steel / Psychic</strong></td>
-<td align="center"><strong>1.6 m</strong></td>
-<td align="center"><strong>550.0 kg</strong></td>
+<td align="center"><strong>#120</strong></td>
+<td align="center"><strong>Water</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>34.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Clear Body, Light Metal**
+**Illuminate, Natural Cure**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 340)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: November 06, 2025 at 01:05 UTC*
+*Last updated: November 07, 2025 at 01:05 UTC*
 
 ---
 
