@@ -418,5 +418,11 @@
     "pokemon_id": 120,
     "pokemon_name": "Staryu",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-11-08T01:02:16.321409",
+    "pokemon_id": 351,
+    "pokemon_name": "Castform",
+    "types": "Normal"
   }
 ]

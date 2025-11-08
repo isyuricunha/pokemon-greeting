@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" width="250" height="250" alt="Staryu">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png" width="250" height="250" alt="Castform">
 
-# A wild **Staryu** appeared to greet you!
+# A wild **Castform** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#120</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>34.5 kg</strong></td>
+<td align="center"><strong>#351</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>0.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Illuminate, Natural Cure**
+**Forecast**
 
-### 📊 Base Stats (Total: 340)
+### 📊 Base Stats (Total: 420)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: November 07, 2025 at 01:05 UTC*
+*Last updated: November 08, 2025 at 01:02 UTC*
 
 ---
 
