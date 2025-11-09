@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png" width="250" height="250" alt="Castform">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png" width="250" height="250" alt="Skuntank">
 
-# A wild **Castform** appeared to greet you!
+# Say hello to **Skuntank**!
 
 <table>
 <tr>
-<td align="center"><strong>#351</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>0.8 kg</strong></td>
+<td align="center"><strong>#435</strong></td>
+<td align="center"><strong>Poison / Dark</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>38.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Forecast**
+**Stench, Aftermath**
 
-### 📊 Base Stats (Total: 420)
+### 📊 Base Stats (Total: 479)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 103 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 84 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: November 08, 2025 at 01:02 UTC*
+*Last updated: November 09, 2025 at 01:08 UTC*
 
 ---
 

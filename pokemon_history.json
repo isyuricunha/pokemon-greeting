@@ -424,5 +424,11 @@
     "pokemon_id": 351,
     "pokemon_name": "Castform",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2025-11-09T01:08:37.777817",
+    "pokemon_id": 435,
+    "pokemon_name": "Skuntank",
+    "types": "Poison / Dark"
   }
 ]
