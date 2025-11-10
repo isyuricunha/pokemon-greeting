@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png" width="250" height="250" alt="Skuntank">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png" width="250" height="250" alt="Celebi">
 
-# Say hello to **Skuntank**!
+# **Celebi** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#435</strong></td>
-<td align="center"><strong>Poison / Dark</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>38.0 kg</strong></td>
+<td align="center"><strong>#251</strong></td>
+<td align="center"><strong>Psychic / Grass</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>5.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Stench, Aftermath**
+**Natural Cure**
 
-### 📊 Base Stats (Total: 479)
+### 📊 Base Stats (Total: 600)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 103 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 84 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
 ## ✨ Wishing you happiness and success! ✨
 
-*Last updated: November 09, 2025 at 01:08 UTC*
+*Last updated: November 10, 2025 at 01:08 UTC*
 
 ---
 

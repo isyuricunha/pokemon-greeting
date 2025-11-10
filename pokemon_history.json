@@ -430,5 +430,11 @@
     "pokemon_id": 435,
     "pokemon_name": "Skuntank",
     "types": "Poison / Dark"
+  },
+  {
+    "timestamp": "2025-11-10T01:08:28.379615",
+    "pokemon_id": 251,
+    "pokemon_name": "Celebi",
+    "types": "Psychic / Grass"
   }
 ]
