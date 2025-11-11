@@ -436,5 +436,11 @@
     "pokemon_id": 251,
     "pokemon_name": "Celebi",
     "types": "Psychic / Grass"
+  },
+  {
+    "timestamp": "2025-11-11T01:06:23.015258",
+    "pokemon_id": 408,
+    "pokemon_name": "Cranidos",
+    "types": "Rock"
   }
 ]
