@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png" width="250" height="250" alt="Cranidos">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png" width="250" height="250" alt="Espathra">
 
-# You have been greeted by **Cranidos**
+# You have been greeted by **Espathra**
 
 <table>
 <tr>
-<td align="center"><strong>#408</strong></td>
-<td align="center"><strong>Rock</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>31.5 kg</strong></td>
+<td align="center"><strong>#956</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>1.9 m</strong></td>
+<td align="center"><strong>90.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Mold Breaker, Sheer Force**
+**Opportunist, Frisk**
 
-### 📊 Base Stats (Total: 350)
+### 📊 Base Stats (Total: 481)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: November 11, 2025 at 01:06 UTC*
+*Last updated: November 12, 2025 at 01:05 UTC*
 
 ---
 

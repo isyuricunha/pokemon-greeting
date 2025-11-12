@@ -442,5 +442,11 @@
     "pokemon_id": 408,
     "pokemon_name": "Cranidos",
     "types": "Rock"
+  },
+  {
+    "timestamp": "2025-11-12T01:05:59.026891",
+    "pokemon_id": 956,
+    "pokemon_name": "Espathra",
+    "types": "Psychic"
   }
 ]
