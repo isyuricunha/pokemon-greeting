@@ -448,5 +448,11 @@
     "pokemon_id": 956,
     "pokemon_name": "Espathra",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2025-11-13T01:06:37.748264",
+    "pokemon_id": 160,
+    "pokemon_name": "Feraligatr",
+    "types": "Water"
   }
 ]

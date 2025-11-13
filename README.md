@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png" width="250" height="250" alt="Espathra">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png" width="250" height="250" alt="Feraligatr">
 
-# You have been greeted by **Espathra**
+# Say hello to **Feraligatr**!
 
 <table>
 <tr>
-<td align="center"><strong>#956</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>1.9 m</strong></td>
-<td align="center"><strong>90.0 kg</strong></td>
+<td align="center"><strong>#160</strong></td>
+<td align="center"><strong>Water</strong></td>
+<td align="center"><strong>2.3 m</strong></td>
+<td align="center"><strong>88.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Opportunist, Frisk**
+**Torrent, Sheer Force**
 
-### 📊 Base Stats (Total: 481)
+### 📊 Base Stats (Total: 530)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 78 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 12, 2025 at 01:05 UTC*
+*Last updated: November 13, 2025 at 01:06 UTC*
 
 ---
 
