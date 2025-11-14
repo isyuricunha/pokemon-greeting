@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png" width="250" height="250" alt="Feraligatr">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png" width="250" height="250" alt="Glaceon">
 
-# Say hello to **Feraligatr**!
+# Greetings from **Glaceon**!
 
 <table>
 <tr>
-<td align="center"><strong>#160</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>2.3 m</strong></td>
-<td align="center"><strong>88.8 kg</strong></td>
+<td align="center"><strong>#471</strong></td>
+<td align="center"><strong>Ice</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>25.9 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Torrent, Sheer Force**
+**Snow Cloak, Ice Body**
 
-### 📊 Base Stats (Total: 530)
+### 📊 Base Stats (Total: 525)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 78 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚡ Speed | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: November 13, 2025 at 01:06 UTC*
+*Last updated: November 14, 2025 at 01:06 UTC*
 
 ---
 

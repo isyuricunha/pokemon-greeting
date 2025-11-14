@@ -454,5 +454,11 @@
     "pokemon_id": 160,
     "pokemon_name": "Feraligatr",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-11-14T01:06:00.067788",
+    "pokemon_id": 471,
+    "pokemon_name": "Glaceon",
+    "types": "Ice"
   }
 ]
