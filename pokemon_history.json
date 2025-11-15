@@ -460,5 +460,11 @@
     "pokemon_id": 471,
     "pokemon_name": "Glaceon",
     "types": "Ice"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:13.131627",
+    "pokemon_id": 1004,
+    "pokemon_name": "Chi-Yu",
+    "types": "Dark / Fire"
   }
 ]

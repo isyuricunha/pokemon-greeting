@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png" width="250" height="250" alt="Glaceon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png" width="250" height="250" alt="Chi-Yu">
 
-# Greetings from **Glaceon**!
+# **Chi-Yu** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#471</strong></td>
-<td align="center"><strong>Ice</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>25.9 kg</strong></td>
+<td align="center"><strong>#1004</strong></td>
+<td align="center"><strong>Dark / Fire</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>4.9 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Snow Cloak, Ice Body**
+**Beads Of Ruin**
 
-### 📊 Base Stats (Total: 525)
+### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚡ Speed | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: November 14, 2025 at 01:06 UTC*
+*Last updated: November 15, 2025 at 01:04 UTC*
 
 ---
 
