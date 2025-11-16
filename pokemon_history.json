@@ -466,5 +466,11 @@
     "pokemon_id": 1004,
     "pokemon_name": "Chi-Yu",
     "types": "Dark / Fire"
+  },
+  {
+    "timestamp": "2025-11-16T01:10:24.885660",
+    "pokemon_id": 1002,
+    "pokemon_name": "Chien-Pao",
+    "types": "Dark / Ice"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png" width="250" height="250" alt="Chi-Yu">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png" width="250" height="250" alt="Chien-Pao">
 
-# **Chi-Yu** wants to brighten your day!
+# **Chien-Pao** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#1004</strong></td>
-<td align="center"><strong>Dark / Fire</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>4.9 kg</strong></td>
+<td align="center"><strong>#1002</strong></td>
+<td align="center"><strong>Dark / Ice</strong></td>
+<td align="center"><strong>1.9 m</strong></td>
+<td align="center"><strong>152.2 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Beads Of Ruin**
+**Sword Of Ruin**
 
 ### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
 | 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
 
 ## ✨ May your day be filled with joy! ✨
 
-*Last updated: November 15, 2025 at 01:04 UTC*
+*Last updated: November 16, 2025 at 01:10 UTC*
 
 ---
 
