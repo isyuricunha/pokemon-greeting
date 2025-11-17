@@ -472,5 +472,11 @@
     "pokemon_id": 1002,
     "pokemon_name": "Chien-Pao",
     "types": "Dark / Ice"
+  },
+  {
+    "timestamp": "2025-11-17T01:06:44.835902",
+    "pokemon_id": 83,
+    "pokemon_name": "Farfetchd",
+    "types": "Normal / Flying"
   }
 ]

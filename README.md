@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png" width="250" height="250" alt="Chien-Pao">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png" width="250" height="250" alt="Farfetchd">
 
-# **Chien-Pao** wants to brighten your day!
+# Say hello to **Farfetchd**!
 
 <table>
 <tr>
-<td align="center"><strong>#1002</strong></td>
-<td align="center"><strong>Dark / Ice</strong></td>
-<td align="center"><strong>1.9 m</strong></td>
-<td align="center"><strong>152.2 kg</strong></td>
+<td align="center"><strong>#083</strong></td>
+<td align="center"><strong>Normal / Flying</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>15.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sword Of Ruin**
+**Keen Eye, Inner Focus**
 
-### 📊 Base Stats (Total: 570)
+### 📊 Base Stats (Total: 377)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ❤️ HP | 52 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: November 16, 2025 at 01:10 UTC*
+*Last updated: November 17, 2025 at 01:06 UTC*
 
 ---
 
