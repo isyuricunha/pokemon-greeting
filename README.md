@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png" width="250" height="250" alt="Farfetchd">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png" width="250" height="250" alt="Aegislash-Shield">
 
-# Say hello to **Farfetchd**!
+# **Aegislash-Shield** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#083</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>15.0 kg</strong></td>
+<td align="center"><strong>#681</strong></td>
+<td align="center"><strong>Steel / Ghost</strong></td>
+<td align="center"><strong>1.7 m</strong></td>
+<td align="center"><strong>53.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Inner Focus**
+**Stance Change**
 
-### 📊 Base Stats (Total: 377)
+### 📊 Base Stats (Total: 500)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 52 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
 | ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 17, 2025 at 01:06 UTC*
+*Last updated: November 18, 2025 at 01:05 UTC*
 
 ---
 

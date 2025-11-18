@@ -478,5 +478,11 @@
     "pokemon_id": 83,
     "pokemon_name": "Farfetchd",
     "types": "Normal / Flying"
+  },
+  {
+    "timestamp": "2025-11-18T01:05:38.656356",
+    "pokemon_id": 681,
+    "pokemon_name": "Aegislash-Shield",
+    "types": "Steel / Ghost"
   }
 ]
