@@ -484,5 +484,11 @@
     "pokemon_id": 681,
     "pokemon_name": "Aegislash-Shield",
     "types": "Steel / Ghost"
+  },
+  {
+    "timestamp": "2025-11-19T01:05:26.416638",
+    "pokemon_id": 39,
+    "pokemon_name": "Jigglypuff",
+    "types": "Normal / Fairy"
   }
 ]

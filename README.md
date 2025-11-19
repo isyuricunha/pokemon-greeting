@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png" width="250" height="250" alt="Aegislash-Shield">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" width="250" height="250" alt="Jigglypuff">
 
-# **Aegislash-Shield** wants to brighten your day!
+# You have been greeted by **Jigglypuff**
 
 <table>
 <tr>
-<td align="center"><strong>#681</strong></td>
-<td align="center"><strong>Steel / Ghost</strong></td>
-<td align="center"><strong>1.7 m</strong></td>
-<td align="center"><strong>53.0 kg</strong></td>
+<td align="center"><strong>#039</strong></td>
+<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>5.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Stance Change**
+**Cute Charm, Competitive**
 
-### 📊 Base Stats (Total: 500)
+### 📊 Base Stats (Total: 270)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: November 18, 2025 at 01:05 UTC*
+*Last updated: November 19, 2025 at 01:05 UTC*
 
 ---
 
