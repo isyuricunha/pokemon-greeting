@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" width="250" height="250" alt="Jigglypuff">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png" width="250" height="250" alt="Zacian">
 
-# You have been greeted by **Jigglypuff**
+# You have been greeted by **Zacian**
 
 <table>
 <tr>
-<td align="center"><strong>#039</strong></td>
-<td align="center"><strong>Normal / Fairy</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>5.5 kg</strong></td>
+<td align="center"><strong>#888</strong></td>
+<td align="center"><strong>Fairy</strong></td>
+<td align="center"><strong>2.8 m</strong></td>
+<td align="center"><strong>110.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Cute Charm, Competitive**
+**Intrepid Sword**
 
-### 📊 Base Stats (Total: 270)
+### 📊 Base Stats (Total: 660)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 138 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: November 19, 2025 at 01:05 UTC*
+*Last updated: November 20, 2025 at 01:04 UTC*
 
 ---
 

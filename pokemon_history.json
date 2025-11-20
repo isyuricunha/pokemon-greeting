@@ -490,5 +490,11 @@
     "pokemon_id": 39,
     "pokemon_name": "Jigglypuff",
     "types": "Normal / Fairy"
+  },
+  {
+    "timestamp": "2025-11-20T01:04:29.937884",
+    "pokemon_id": 888,
+    "pokemon_name": "Zacian",
+    "types": "Fairy"
   }
 ]
