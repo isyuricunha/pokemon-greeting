@@ -496,5 +496,11 @@
     "pokemon_id": 888,
     "pokemon_name": "Zacian",
     "types": "Fairy"
+  },
+  {
+    "timestamp": "2025-11-21T01:04:53.795907",
+    "pokemon_id": 880,
+    "pokemon_name": "Dracozolt",
+    "types": "Electric / Dragon"
   }
 ]

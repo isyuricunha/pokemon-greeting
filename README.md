@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png" width="250" height="250" alt="Zacian">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png" width="250" height="250" alt="Dracozolt">
 
-# You have been greeted by **Zacian**
+# **Dracozolt** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#888</strong></td>
-<td align="center"><strong>Fairy</strong></td>
-<td align="center"><strong>2.8 m</strong></td>
-<td align="center"><strong>110.0 kg</strong></td>
+<td align="center"><strong>#880</strong></td>
+<td align="center"><strong>Electric / Dragon</strong></td>
+<td align="center"><strong>1.8 m</strong></td>
+<td align="center"><strong>190.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Intrepid Sword**
+**Volt Absorb, Hustle**
 
-### 📊 Base Stats (Total: 660)
+### 📊 Base Stats (Total: 505)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 120 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 138 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: November 20, 2025 at 01:04 UTC*
+*Last updated: November 21, 2025 at 01:04 UTC*
 
 ---
 
