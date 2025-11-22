@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png" width="250" height="250" alt="Dracozolt">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png" width="250" height="250" alt="Cottonee">
 
-# **Dracozolt** wants to brighten your day!
+# Say hello to **Cottonee**!
 
 <table>
 <tr>
-<td align="center"><strong>#880</strong></td>
-<td align="center"><strong>Electric / Dragon</strong></td>
-<td align="center"><strong>1.8 m</strong></td>
-<td align="center"><strong>190.0 kg</strong></td>
+<td align="center"><strong>#546</strong></td>
+<td align="center"><strong>Grass / Fairy</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>0.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Volt Absorb, Hustle**
+**Prankster, Infiltrator**
 
-### 📊 Base Stats (Total: 505)
+### 📊 Base Stats (Total: 280)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 27 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 66 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: November 21, 2025 at 01:04 UTC*
+*Last updated: November 22, 2025 at 01:02 UTC*
 
 ---
 

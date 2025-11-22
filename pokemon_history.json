@@ -502,5 +502,11 @@
     "pokemon_id": 880,
     "pokemon_name": "Dracozolt",
     "types": "Electric / Dragon"
+  },
+  {
+    "timestamp": "2025-11-22T01:02:38.932171",
+    "pokemon_id": 546,
+    "pokemon_name": "Cottonee",
+    "types": "Grass / Fairy"
   }
 ]
