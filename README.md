@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png" width="250" height="250" alt="Cottonee">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png" width="250" height="250" alt="Infernape">
 
-# Say hello to **Cottonee**!
+# You have been greeted by **Infernape**
 
 <table>
 <tr>
-<td align="center"><strong>#546</strong></td>
-<td align="center"><strong>Grass / Fairy</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>0.6 kg</strong></td>
+<td align="center"><strong>#392</strong></td>
+<td align="center"><strong>Fire / Fighting</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>55.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Prankster, Infiltrator**
+**Blaze, Iron Fist**
 
-### 📊 Base Stats (Total: 280)
+### 📊 Base Stats (Total: 534)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 27 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 66 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 104 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 71 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: November 22, 2025 at 01:02 UTC*
+*Last updated: November 23, 2025 at 01:14 UTC*
 
 ---
 

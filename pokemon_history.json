@@ -508,5 +508,11 @@
     "pokemon_id": 546,
     "pokemon_name": "Cottonee",
     "types": "Grass / Fairy"
+  },
+  {
+    "timestamp": "2025-11-23T01:14:51.225485",
+    "pokemon_id": 392,
+    "pokemon_name": "Infernape",
+    "types": "Fire / Fighting"
   }
 ]
