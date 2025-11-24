@@ -514,5 +514,11 @@
     "pokemon_id": 392,
     "pokemon_name": "Infernape",
     "types": "Fire / Fighting"
+  },
+  {
+    "timestamp": "2025-11-24T01:10:05.624659",
+    "pokemon_id": 522,
+    "pokemon_name": "Blitzle",
+    "types": "Electric"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png" width="250" height="250" alt="Infernape">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png" width="250" height="250" alt="Blitzle">
 
-# You have been greeted by **Infernape**
+# A wild **Blitzle** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#392</strong></td>
-<td align="center"><strong>Fire / Fighting</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>55.0 kg</strong></td>
+<td align="center"><strong>#522</strong></td>
+<td align="center"><strong>Electric</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>29.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Blaze, Iron Fist**
+**Lightning Rod, Motor Drive**
 
-### 📊 Base Stats (Total: 534)
+### 📊 Base Stats (Total: 295)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 104 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 71 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 32 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: November 23, 2025 at 01:14 UTC*
+*Last updated: November 24, 2025 at 01:10 UTC*
 
 ---
 
