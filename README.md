@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png" width="250" height="250" alt="Blitzle">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png" width="250" height="250" alt="Melmetal">
 
-# A wild **Blitzle** appeared to greet you!
+# You have been greeted by **Melmetal**
 
 <table>
 <tr>
-<td align="center"><strong>#522</strong></td>
-<td align="center"><strong>Electric</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>29.8 kg</strong></td>
+<td align="center"><strong>#809</strong></td>
+<td align="center"><strong>Steel</strong></td>
+<td align="center"><strong>2.5 m</strong></td>
+<td align="center"><strong>800.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Lightning Rod, Motor Drive**
+**Iron Fist**
 
-### 📊 Base Stats (Total: 295)
+### 📊 Base Stats (Total: 600)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 32 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚔️ Attack | 143 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
+| 🛡️ Defense | 143 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
+| ⚡ Speed | 34 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: November 24, 2025 at 01:10 UTC*
+*Last updated: November 25, 2025 at 01:05 UTC*
 
 ---
 

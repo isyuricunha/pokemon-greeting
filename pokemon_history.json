@@ -520,5 +520,11 @@
     "pokemon_id": 522,
     "pokemon_name": "Blitzle",
     "types": "Electric"
+  },
+  {
+    "timestamp": "2025-11-25T01:05:29.489237",
+    "pokemon_id": 809,
+    "pokemon_name": "Melmetal",
+    "types": "Steel"
   }
 ]
