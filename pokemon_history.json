@@ -526,5 +526,11 @@
     "pokemon_id": 809,
     "pokemon_name": "Melmetal",
     "types": "Steel"
+  },
+  {
+    "timestamp": "2025-11-26T01:05:59.782151",
+    "pokemon_id": 614,
+    "pokemon_name": "Beartic",
+    "types": "Ice"
   }
 ]

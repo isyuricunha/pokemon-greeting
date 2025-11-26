@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png" width="250" height="250" alt="Melmetal">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png" width="250" height="250" alt="Beartic">
 
-# You have been greeted by **Melmetal**
+# A wild **Beartic** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#809</strong></td>
-<td align="center"><strong>Steel</strong></td>
-<td align="center"><strong>2.5 m</strong></td>
-<td align="center"><strong>800.0 kg</strong></td>
+<td align="center"><strong>#614</strong></td>
+<td align="center"><strong>Ice</strong></td>
+<td align="center"><strong>2.6 m</strong></td>
+<td align="center"><strong>260.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Iron Fist**
+**Snow Cloak, Slush Rush**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 505)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 135 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚔️ Attack | 143 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
-| 🛡️ Defense | 143 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
-| ⚡ Speed | 34 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: November 25, 2025 at 01:05 UTC*
+*Last updated: November 26, 2025 at 01:05 UTC*
 
 ---
 
