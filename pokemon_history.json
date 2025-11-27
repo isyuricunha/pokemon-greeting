@@ -532,5 +532,11 @@
     "pokemon_id": 614,
     "pokemon_name": "Beartic",
     "types": "Ice"
+  },
+  {
+    "timestamp": "2025-11-27T01:04:57.782061",
+    "pokemon_id": 107,
+    "pokemon_name": "Hitmonchan",
+    "types": "Fighting"
   }
 ]

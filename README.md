@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png" width="250" height="250" alt="Beartic">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png" width="250" height="250" alt="Hitmonchan">
 
-# A wild **Beartic** appeared to greet you!
+# **Hitmonchan** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#614</strong></td>
-<td align="center"><strong>Ice</strong></td>
-<td align="center"><strong>2.6 m</strong></td>
-<td align="center"><strong>260.0 kg</strong></td>
+<td align="center"><strong>#107</strong></td>
+<td align="center"><strong>Fighting</strong></td>
+<td align="center"><strong>1.4 m</strong></td>
+<td align="center"><strong>50.2 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Snow Cloak, Slush Rush**
+**Keen Eye, Iron Fist**
 
-### 📊 Base Stats (Total: 505)
+### 📊 Base Stats (Total: 455)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: November 26, 2025 at 01:05 UTC*
+*Last updated: November 27, 2025 at 01:04 UTC*
 
 ---
 
