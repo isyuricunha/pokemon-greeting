@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png" width="250" height="250" alt="Hitmonchan">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png" width="250" height="250" alt="Treecko">
 
-# **Hitmonchan** is here to wish you well!
+# **Treecko** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#107</strong></td>
-<td align="center"><strong>Fighting</strong></td>
-<td align="center"><strong>1.4 m</strong></td>
-<td align="center"><strong>50.2 kg</strong></td>
+<td align="center"><strong>#252</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>5.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Iron Fist**
+**Overgrow, Unburden**
 
-### 📊 Base Stats (Total: 455)
+### 📊 Base Stats (Total: 310)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 76 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: November 27, 2025 at 01:04 UTC*
+*Last updated: November 28, 2025 at 01:04 UTC*
 
 ---
 
