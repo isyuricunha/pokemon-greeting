@@ -544,5 +544,11 @@
     "pokemon_id": 252,
     "pokemon_name": "Treecko",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2025-11-29T01:04:31.795113",
+    "pokemon_id": 167,
+    "pokemon_name": "Spinarak",
+    "types": "Bug / Poison"
   }
 ]
