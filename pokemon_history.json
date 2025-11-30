@@ -550,5 +550,11 @@
     "pokemon_id": 167,
     "pokemon_name": "Spinarak",
     "types": "Bug / Poison"
+  },
+  {
+    "timestamp": "2025-11-30T01:14:19.040140",
+    "pokemon_id": 800,
+    "pokemon_name": "Necrozma",
+    "types": "Psychic"
   }
 ]
