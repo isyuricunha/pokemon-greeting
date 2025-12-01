@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png" width="250" height="250" alt="Necrozma">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png" width="250" height="250" alt="Panpour">
 
-# **Necrozma** wants to brighten your day!
+# Greetings from **Panpour**!
 
 <table>
 <tr>
-<td align="center"><strong>#800</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>2.4 m</strong></td>
-<td align="center"><strong>230.0 kg</strong></td>
+<td align="center"><strong>#515</strong></td>
+<td align="center"><strong>Water</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>13.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Prism Armor**
+**Gluttony, Torrent**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 316)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 97 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 107 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 101 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: November 30, 2025 at 01:14 UTC*
+*Last updated: December 01, 2025 at 01:18 UTC*
 
 ---
 
