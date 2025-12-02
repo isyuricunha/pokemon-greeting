@@ -562,5 +562,11 @@
     "pokemon_id": 515,
     "pokemon_name": "Panpour",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-12-02T01:07:32.505553",
+    "pokemon_id": 395,
+    "pokemon_name": "Empoleon",
+    "types": "Water / Steel"
   }
 ]

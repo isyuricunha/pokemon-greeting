@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png" width="250" height="250" alt="Panpour">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png" width="250" height="250" alt="Empoleon">
 
-# Greetings from **Panpour**!
+# **Empoleon** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#515</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>13.5 kg</strong></td>
+<td align="center"><strong>#395</strong></td>
+<td align="center"><strong>Water / Steel</strong></td>
+<td align="center"><strong>1.7 m</strong></td>
+<td align="center"><strong>84.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Gluttony, Torrent**
+**Torrent, Competitive**
 
-### 📊 Base Stats (Total: 316)
+### 📊 Base Stats (Total: 530)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 84 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: December 01, 2025 at 01:18 UTC*
+*Last updated: December 02, 2025 at 01:07 UTC*
 
 ---
 
