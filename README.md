@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png" width="250" height="250" alt="Empoleon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png" width="250" height="250" alt="Sandy-Shocks">
 
-# **Empoleon** wants to brighten your day!
+# Say hello to **Sandy-Shocks**!
 
 <table>
 <tr>
-<td align="center"><strong>#395</strong></td>
-<td align="center"><strong>Water / Steel</strong></td>
-<td align="center"><strong>1.7 m</strong></td>
-<td align="center"><strong>84.5 kg</strong></td>
+<td align="center"><strong>#989</strong></td>
+<td align="center"><strong>Electric / Ground</strong></td>
+<td align="center"><strong>2.3 m</strong></td>
+<td align="center"><strong>60.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Torrent, Competitive**
+**Protosynthesis**
 
-### 📊 Base Stats (Total: 530)
+### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 84 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 81 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 97 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 101 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: December 02, 2025 at 01:07 UTC*
+*Last updated: December 03, 2025 at 01:08 UTC*
 
 ---
 

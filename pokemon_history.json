@@ -568,5 +568,11 @@
     "pokemon_id": 395,
     "pokemon_name": "Empoleon",
     "types": "Water / Steel"
+  },
+  {
+    "timestamp": "2025-12-03T01:08:06.608302",
+    "pokemon_id": 989,
+    "pokemon_name": "Sandy-Shocks",
+    "types": "Electric / Ground"
   }
 ]
