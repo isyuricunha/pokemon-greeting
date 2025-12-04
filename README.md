@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png" width="250" height="250" alt="Sandy-Shocks">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png" width="250" height="250" alt="Lampent">
 
-# Say hello to **Sandy-Shocks**!
+# **Lampent** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#989</strong></td>
-<td align="center"><strong>Electric / Ground</strong></td>
-<td align="center"><strong>2.3 m</strong></td>
-<td align="center"><strong>60.0 kg</strong></td>
+<td align="center"><strong>#608</strong></td>
+<td align="center"><strong>Ghost / Fire</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>13.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Protosynthesis**
+**Flash Fire, Flame Body**
 
-### 📊 Base Stats (Total: 570)
+### 📊 Base Stats (Total: 370)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 81 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 97 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 101 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 03, 2025 at 01:08 UTC*
+*Last updated: December 04, 2025 at 01:07 UTC*
 
 ---
 

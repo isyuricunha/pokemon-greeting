@@ -574,5 +574,11 @@
     "pokemon_id": 989,
     "pokemon_name": "Sandy-Shocks",
     "types": "Electric / Ground"
+  },
+  {
+    "timestamp": "2025-12-04T01:07:43.365842",
+    "pokemon_id": 608,
+    "pokemon_name": "Lampent",
+    "types": "Ghost / Fire"
   }
 ]
