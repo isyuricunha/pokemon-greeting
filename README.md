@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png" width="250" height="250" alt="Lampent">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png" width="250" height="250" alt="Elgyem">
 
-# **Lampent** wants to brighten your day!
+# **Elgyem** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#608</strong></td>
-<td align="center"><strong>Ghost / Fire</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>13.0 kg</strong></td>
+<td align="center"><strong>#605</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>9.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Flash Fire, Flame Body**
+**Telepathy, Synchronize**
 
-### 📊 Base Stats (Total: 370)
+### 📊 Base Stats (Total: 335)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 04, 2025 at 01:07 UTC*
+*Last updated: December 05, 2025 at 01:08 UTC*
 
 ---
 

@@ -580,5 +580,11 @@
     "pokemon_id": 608,
     "pokemon_name": "Lampent",
     "types": "Ghost / Fire"
+  },
+  {
+    "timestamp": "2025-12-05T01:08:00.810927",
+    "pokemon_id": 605,
+    "pokemon_name": "Elgyem",
+    "types": "Psychic"
   }
 ]
