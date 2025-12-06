@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png" width="250" height="250" alt="Elgyem">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png" width="250" height="250" alt="Mamoswine">
 
-# **Elgyem** is here to wish you well!
+# **Mamoswine** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#605</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>9.0 kg</strong></td>
+<td align="center"><strong>#473</strong></td>
+<td align="center"><strong>Ice / Ground</strong></td>
+<td align="center"><strong>2.5 m</strong></td>
+<td align="center"><strong>291.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Telepathy, Synchronize**
+**Oblivious, Snow Cloak**
 
-### 📊 Base Stats (Total: 335)
+### 📊 Base Stats (Total: 530)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: December 05, 2025 at 01:08 UTC*
+*Last updated: December 06, 2025 at 01:04 UTC*
 
 ---
 

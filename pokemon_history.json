@@ -586,5 +586,11 @@
     "pokemon_id": 605,
     "pokemon_name": "Elgyem",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2025-12-06T01:04:23.098911",
+    "pokemon_id": 473,
+    "pokemon_name": "Mamoswine",
+    "types": "Ice / Ground"
   }
 ]
