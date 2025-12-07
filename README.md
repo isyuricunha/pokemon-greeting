@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png" width="250" height="250" alt="Mamoswine">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png" width="250" height="250" alt="Starly">
 
-# **Mamoswine** wants to brighten your day!
+# **Starly** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#473</strong></td>
-<td align="center"><strong>Ice / Ground</strong></td>
-<td align="center"><strong>2.5 m</strong></td>
-<td align="center"><strong>291.0 kg</strong></td>
+<td align="center"><strong>#396</strong></td>
+<td align="center"><strong>Normal / Flying</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>2.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Oblivious, Snow Cloak**
+**Keen Eye, Reckless**
 
-### 📊 Base Stats (Total: 530)
+### 📊 Base Stats (Total: 245)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: December 06, 2025 at 01:04 UTC*
+*Last updated: December 07, 2025 at 01:14 UTC*
 
 ---
 
