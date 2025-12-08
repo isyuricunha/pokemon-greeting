@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png" width="250" height="250" alt="Starly">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png" width="250" height="250" alt="Flaaffy">
 
-# **Starly** is here to wish you well!
+# You have been greeted by **Flaaffy**
 
 <table>
 <tr>
-<td align="center"><strong>#396</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>2.0 kg</strong></td>
+<td align="center"><strong>#180</strong></td>
+<td align="center"><strong>Electric</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>13.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Reckless**
+**Static, Plus**
 
-### 📊 Base Stats (Total: 245)
+### 📊 Base Stats (Total: 365)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 | ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 07, 2025 at 01:14 UTC*
+*Last updated: December 08, 2025 at 01:08 UTC*
 
 ---
 

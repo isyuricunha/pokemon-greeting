@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T16:40:27.064059",
-    "pokemon_id": 903,
-    "pokemon_name": "Sneasler",
-    "types": "Fighting / Poison"
-  },
-  {
     "timestamp": "2025-09-11T17:14:20.041376",
     "pokemon_id": 186,
     "pokemon_name": "Politoed",
@@ -598,5 +592,11 @@
     "pokemon_id": 396,
     "pokemon_name": "Starly",
     "types": "Normal / Flying"
+  },
+  {
+    "timestamp": "2025-12-08T01:08:29.599822",
+    "pokemon_id": 180,
+    "pokemon_name": "Flaaffy",
+    "types": "Electric"
   }
 ]
