@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png" width="250" height="250" alt="Flaaffy">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png" width="250" height="250" alt="Clauncher">
 
-# You have been greeted by **Flaaffy**
+# Greetings from **Clauncher**!
 
 <table>
 <tr>
-<td align="center"><strong>#180</strong></td>
-<td align="center"><strong>Electric</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>13.3 kg</strong></td>
+<td align="center"><strong>#692</strong></td>
+<td align="center"><strong>Water</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>8.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Static, Plus**
+**Mega Launcher**
 
-### 📊 Base Stats (Total: 365)
+### 📊 Base Stats (Total: 330)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 62 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 08, 2025 at 01:08 UTC*
+*Last updated: December 09, 2025 at 01:07 UTC*
 
 ---
 
