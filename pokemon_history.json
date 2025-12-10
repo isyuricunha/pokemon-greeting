@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T17:14:56.491819",
-    "pokemon_id": 8,
-    "pokemon_name": "Wartortle",
-    "types": "Water"
-  },
-  {
     "timestamp": "2025-09-11T20:17:44.492800",
     "pokemon_id": 954,
     "pokemon_name": "Rabsca",
@@ -598,5 +592,11 @@
     "pokemon_id": 692,
     "pokemon_name": "Clauncher",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-12-10T01:09:46.463176",
+    "pokemon_id": 52,
+    "pokemon_name": "Meowth",
+    "types": "Normal"
   }
 ]

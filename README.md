@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png" width="250" height="250" alt="Clauncher">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" width="250" height="250" alt="Meowth">
 
-# Greetings from **Clauncher**!
+# Say hello to **Meowth**!
 
 <table>
 <tr>
-<td align="center"><strong>#692</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>8.3 kg</strong></td>
+<td align="center"><strong>#052</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>4.2 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Mega Launcher**
+**Pickup, Technician**
 
-### 📊 Base Stats (Total: 330)
+### 📊 Base Stats (Total: 290)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 62 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
 ## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 09, 2025 at 01:07 UTC*
+*Last updated: December 10, 2025 at 01:09 UTC*
 
 ---
 
