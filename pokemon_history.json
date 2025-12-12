@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T17:20:05.004673",
-    "pokemon_id": 44,
-    "pokemon_name": "Gloom",
-    "types": "Grass / Poison"
-  },
-  {
     "timestamp": "2025-09-11T17:21:02.738934",
     "pokemon_id": 384,
     "pokemon_name": "Rayquaza",
@@ -598,5 +592,11 @@
     "pokemon_id": 714,
     "pokemon_name": "Noibat",
     "types": "Flying / Dragon"
+  },
+  {
+    "timestamp": "2025-12-12T01:10:01.652923",
+    "pokemon_id": 383,
+    "pokemon_name": "Groudon",
+    "types": "Ground"
   }
 ]

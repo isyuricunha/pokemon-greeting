@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png" width="250" height="250" alt="Noibat">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png" width="250" height="250" alt="Groudon">
 
-# You have been greeted by **Noibat**
+# Say hello to **Groudon**!
 
 <table>
 <tr>
-<td align="center"><strong>#714</strong></td>
-<td align="center"><strong>Flying / Dragon</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>8.0 kg</strong></td>
+<td align="center"><strong>#383</strong></td>
+<td align="center"><strong>Ground</strong></td>
+<td align="center"><strong>3.5 m</strong></td>
+<td align="center"><strong>950.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Frisk, Infiltrator**
+**Drought**
 
-### 📊 Base Stats (Total: 245)
+### 📊 Base Stats (Total: 670)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 150 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
+| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: December 11, 2025 at 01:10 UTC*
+*Last updated: December 12, 2025 at 01:10 UTC*
 
 ---
 
