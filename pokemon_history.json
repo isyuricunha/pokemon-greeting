@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T17:21:02.738934",
-    "pokemon_id": 384,
-    "pokemon_name": "Rayquaza",
-    "types": "Dragon / Flying"
-  },
-  {
     "timestamp": "2025-09-11T20:23:17.342765",
     "pokemon_id": 193,
     "pokemon_name": "Yanma",
@@ -598,5 +592,11 @@
     "pokemon_id": 383,
     "pokemon_name": "Groudon",
     "types": "Ground"
+  },
+  {
+    "timestamp": "2025-12-13T01:05:39.364637",
+    "pokemon_id": 578,
+    "pokemon_name": "Duosion",
+    "types": "Psychic"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png" width="250" height="250" alt="Groudon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png" width="250" height="250" alt="Duosion">
 
-# Say hello to **Groudon**!
+# Say hello to **Duosion**!
 
 <table>
 <tr>
-<td align="center"><strong>#383</strong></td>
-<td align="center"><strong>Ground</strong></td>
-<td align="center"><strong>3.5 m</strong></td>
-<td align="center"><strong>950.0 kg</strong></td>
+<td align="center"><strong>#578</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>8.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Drought**
+**Overcoat, Magic Guard**
 
-### 📊 Base Stats (Total: 670)
+### 📊 Base Stats (Total: 370)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 150 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
-| 🛡️ Defense | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: December 12, 2025 at 01:10 UTC*
+*Last updated: December 13, 2025 at 01:05 UTC*
 
 ---
 
