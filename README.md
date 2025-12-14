@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png" width="250" height="250" alt="Duosion">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png" width="250" height="250" alt="Sneasel">
 
-# Say hello to **Duosion**!
+# A wild **Sneasel** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#578</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>8.0 kg</strong></td>
+<td align="center"><strong>#215</strong></td>
+<td align="center"><strong>Dark / Ice</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>28.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Overcoat, Magic Guard**
+**Inner Focus, Keen Eye**
 
-### 📊 Base Stats (Total: 370)
+### 📊 Base Stats (Total: 430)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
 
 ## ✨ May your day be filled with joy! ✨
 
-*Last updated: December 13, 2025 at 01:05 UTC*
+*Last updated: December 14, 2025 at 01:14 UTC*
 
 ---
 

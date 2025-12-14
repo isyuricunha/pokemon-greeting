@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T20:23:17.342765",
-    "pokemon_id": 193,
-    "pokemon_name": "Yanma",
-    "types": "Bug / Flying"
-  },
-  {
     "timestamp": "2025-09-11T17:24:48.560973",
     "pokemon_id": 179,
     "pokemon_name": "Mareep",
@@ -598,5 +592,11 @@
     "pokemon_id": 578,
     "pokemon_name": "Duosion",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2025-12-14T01:14:58.582333",
+    "pokemon_id": 215,
+    "pokemon_name": "Sneasel",
+    "types": "Dark / Ice"
   }
 ]
