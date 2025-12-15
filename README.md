@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png" width="250" height="250" alt="Sneasel">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" width="250" height="250" alt="Omanyte">
 
-# A wild **Sneasel** appeared to greet you!
+# You have been greeted by **Omanyte**
 
 <table>
 <tr>
-<td align="center"><strong>#215</strong></td>
-<td align="center"><strong>Dark / Ice</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>28.0 kg</strong></td>
+<td align="center"><strong>#138</strong></td>
+<td align="center"><strong>Rock / Water</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>7.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Inner Focus, Keen Eye**
+**Swift Swim, Shell Armor**
 
-### 📊 Base Stats (Total: 430)
+### 📊 Base Stats (Total: 355)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: December 14, 2025 at 01:14 UTC*
+*Last updated: December 15, 2025 at 01:11 UTC*
 
 ---
 
