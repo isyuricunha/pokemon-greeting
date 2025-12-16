@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" width="250" height="250" alt="Omanyte">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png" width="250" height="250" alt="Heracross">
 
-# You have been greeted by **Omanyte**
+# Say hello to **Heracross**!
 
 <table>
 <tr>
-<td align="center"><strong>#138</strong></td>
-<td align="center"><strong>Rock / Water</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>7.5 kg</strong></td>
+<td align="center"><strong>#214</strong></td>
+<td align="center"><strong>Bug / Fighting</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>54.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Shell Armor**
+**Swarm, Guts**
 
-### 📊 Base Stats (Total: 355)
+### 📊 Base Stats (Total: 500)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: December 15, 2025 at 01:11 UTC*
+*Last updated: December 16, 2025 at 01:11 UTC*
 
 ---
 
