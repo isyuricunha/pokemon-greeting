@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T17:27:31.107236",
-    "pokemon_id": 138,
-    "pokemon_name": "Omanyte",
-    "types": "Rock / Water"
-  },
-  {
     "timestamp": "2025-09-11T20:28:47.462545",
     "pokemon_id": 768,
     "pokemon_name": "Golisopod",
@@ -598,5 +592,11 @@
     "pokemon_id": 214,
     "pokemon_name": "Heracross",
     "types": "Bug / Fighting"
+  },
+  {
+    "timestamp": "2025-12-17T01:05:33.621830",
+    "pokemon_id": 418,
+    "pokemon_name": "Buizel",
+    "types": "Water"
   }
 ]

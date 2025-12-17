@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png" width="250" height="250" alt="Heracross">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png" width="250" height="250" alt="Buizel">
 
-# Say hello to **Heracross**!
+# **Buizel** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#214</strong></td>
-<td align="center"><strong>Bug / Fighting</strong></td>
-<td align="center"><strong>1.5 m</strong></td>
-<td align="center"><strong>54.0 kg</strong></td>
+<td align="center"><strong>#418</strong></td>
+<td align="center"><strong>Water</strong></td>
+<td align="center"><strong>0.7 m</strong></td>
+<td align="center"><strong>29.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swarm, Guts**
+**Swift Swim, Water Veil**
 
-### 📊 Base Stats (Total: 500)
+### 📊 Base Stats (Total: 330)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 | ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: December 16, 2025 at 01:11 UTC*
+*Last updated: December 17, 2025 at 01:05 UTC*
 
 ---
 
