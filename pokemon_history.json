@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T20:28:47.462545",
-    "pokemon_id": 768,
-    "pokemon_name": "Golisopod",
-    "types": "Bug / Water"
-  },
-  {
     "timestamp": "2025-09-11T20:37:19.440541",
     "pokemon_id": 381,
     "pokemon_name": "Latios",
@@ -598,5 +592,11 @@
     "pokemon_id": 418,
     "pokemon_name": "Buizel",
     "types": "Water"
+  },
+  {
+    "timestamp": "2025-12-18T01:06:54.193366",
+    "pokemon_id": 362,
+    "pokemon_name": "Glalie",
+    "types": "Ice"
   }
 ]

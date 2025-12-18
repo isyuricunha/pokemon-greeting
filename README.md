@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png" width="250" height="250" alt="Buizel">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png" width="250" height="250" alt="Glalie">
 
-# **Buizel** sends you positive vibes!
+# A wild **Glalie** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#418</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>29.5 kg</strong></td>
+<td align="center"><strong>#362</strong></td>
+<td align="center"><strong>Ice</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>256.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Water Veil**
+**Inner Focus, Ice Body**
 
-### 📊 Base Stats (Total: 330)
+### 📊 Base Stats (Total: 480)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: December 17, 2025 at 01:05 UTC*
+*Last updated: December 18, 2025 at 01:06 UTC*
 
 ---
 
