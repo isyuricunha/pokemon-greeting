@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11T20:37:19.440541",
-    "pokemon_id": 381,
-    "pokemon_name": "Latios",
-    "types": "Dragon / Psychic"
-  },
-  {
     "timestamp": "2025-09-12T00:59:00.998104",
     "pokemon_id": 40,
     "pokemon_name": "Wigglytuff",
@@ -598,5 +592,11 @@
     "pokemon_id": 362,
     "pokemon_name": "Glalie",
     "types": "Ice"
+  },
+  {
+    "timestamp": "2025-12-19T01:10:27.778802",
+    "pokemon_id": 611,
+    "pokemon_name": "Fraxure",
+    "types": "Dragon"
   }
 ]
