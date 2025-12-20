@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png" width="250" height="250" alt="Fraxure">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png" width="250" height="250" alt="Squawkabilly-Green-Plumage">
 
-# A wild **Fraxure** appeared to greet you!
+# Greetings from **Squawkabilly-Green-Plumage**!
 
 <table>
 <tr>
-<td align="center"><strong>#611</strong></td>
-<td align="center"><strong>Dragon</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>36.0 kg</strong></td>
+<td align="center"><strong>#931</strong></td>
+<td align="center"><strong>Normal / Flying</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>2.4 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Rivalry, Mold Breaker**
+**Intimidate, Hustle**
 
-### 📊 Base Stats (Total: 410)
+### 📊 Base Stats (Total: 417)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 66 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 117 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 96 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 51 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: December 19, 2025 at 01:10 UTC*
+*Last updated: December 20, 2025 at 01:05 UTC*
 
 ---
 

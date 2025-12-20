@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12T00:59:00.998104",
-    "pokemon_id": 40,
-    "pokemon_name": "Wigglytuff",
-    "types": "Normal / Fairy"
-  },
-  {
     "timestamp": "2025-09-13T00:57:06.135309",
     "pokemon_id": 834,
     "pokemon_name": "Drednaw",
@@ -598,5 +592,11 @@
     "pokemon_id": 611,
     "pokemon_name": "Fraxure",
     "types": "Dragon"
+  },
+  {
+    "timestamp": "2025-12-20T01:05:55.785770",
+    "pokemon_id": 931,
+    "pokemon_name": "Squawkabilly-Green-Plumage",
+    "types": "Normal / Flying"
   }
 ]
