@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png" width="250" height="250" alt="Squawkabilly-Green-Plumage">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png" width="250" height="250" alt="Tepig">
 
-# Greetings from **Squawkabilly-Green-Plumage**!
+# **Tepig** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#931</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>2.4 kg</strong></td>
+<td align="center"><strong>#498</strong></td>
+<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>9.9 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Intimidate, Hustle**
+**Blaze, Thick Fat**
 
-### 📊 Base Stats (Total: 417)
+### 📊 Base Stats (Total: 308)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 96 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 51 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 63 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: December 20, 2025 at 01:05 UTC*
+*Last updated: December 21, 2025 at 01:14 UTC*
 
 ---
 
