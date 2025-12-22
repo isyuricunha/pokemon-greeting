@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png" width="250" height="250" alt="Klawf">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png" width="250" height="250" alt="Liepard">
 
-# You have been greeted by **Klawf**
+# You have been greeted by **Liepard**
 
 <table>
 <tr>
-<td align="center"><strong>#950</strong></td>
-<td align="center"><strong>Rock</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>79.0 kg</strong></td>
+<td align="center"><strong>#510</strong></td>
+<td align="center"><strong>Dark</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>37.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Anger Shell, Shell Armor**
+**Limber, Unburden**
 
-### 📊 Base Stats (Total: 450)
+### 📊 Base Stats (Total: 446)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: December 22, 2025 at 01:13 UTC*
+*Last updated: December 22, 2025 at 10:21 UTC*
 
 ---
 

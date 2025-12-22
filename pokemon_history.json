@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-15T01:05:26.864363",
-    "pokemon_id": 280,
-    "pokemon_name": "Ralts",
-    "types": "Psychic / Fairy"
-  },
-  {
     "timestamp": "2025-09-16T01:00:12.375687",
     "pokemon_id": 1003,
     "pokemon_name": "Ting-Lu",
@@ -598,5 +592,11 @@
     "pokemon_id": 950,
     "pokemon_name": "Klawf",
     "types": "Rock"
+  },
+  {
+    "timestamp": "2025-12-22T10:21:18.515824",
+    "pokemon_id": 510,
+    "pokemon_name": "Liepard",
+    "types": "Dark"
   }
 ]
