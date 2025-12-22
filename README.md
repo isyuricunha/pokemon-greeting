@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png" width="250" height="250" alt="Tepig">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png" width="250" height="250" alt="Klawf">
 
-# **Tepig** wants to brighten your day!
+# You have been greeted by **Klawf**
 
 <table>
 <tr>
-<td align="center"><strong>#498</strong></td>
-<td align="center"><strong>Fire</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>9.9 kg</strong></td>
+<td align="center"><strong>#950</strong></td>
+<td align="center"><strong>Rock</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>79.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Blaze, Thick Fat**
+**Anger Shell, Shell Armor**
 
-### 📊 Base Stats (Total: 308)
+### 📊 Base Stats (Total: 450)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 63 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: December 21, 2025 at 01:14 UTC*
+*Last updated: December 22, 2025 at 01:13 UTC*
 
 ---
 
