@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png" width="250" height="250" alt="Liepard">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png" width="250" height="250" alt="Iron-Jugulis">
 
-# You have been greeted by **Liepard**
+# **Iron-Jugulis** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#510</strong></td>
-<td align="center"><strong>Dark</strong></td>
-<td align="center"><strong>1.1 m</strong></td>
-<td align="center"><strong>37.5 kg</strong></td>
+<td align="center"><strong>#993</strong></td>
+<td align="center"><strong>Dark / Flying</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>111.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Limber, Unburden**
+**Quark Drive**
 
-### 📊 Base Stats (Total: 446)
+### 📊 Base Stats (Total: 570)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 88 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: December 22, 2025 at 10:21 UTC*
+*Last updated: December 23, 2025 at 15:31 UTC*
 
 ---
 

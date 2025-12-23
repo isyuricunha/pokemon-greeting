@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-16T01:00:12.375687",
-    "pokemon_id": 1003,
-    "pokemon_name": "Ting-Lu",
-    "types": "Dark / Ground"
-  },
-  {
     "timestamp": "2025-09-17T00:59:57.346711",
     "pokemon_id": 953,
     "pokemon_name": "Rellor",
@@ -598,5 +592,11 @@
     "pokemon_id": 510,
     "pokemon_name": "Liepard",
     "types": "Dark"
+  },
+  {
+    "timestamp": "2025-12-23T15:31:57.821812",
+    "pokemon_id": 993,
+    "pokemon_name": "Iron-Jugulis",
+    "types": "Dark / Flying"
   }
 ]
