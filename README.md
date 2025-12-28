@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png" width="250" height="250" alt="Iron-Jugulis">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png" width="250" height="250" alt="Urshifu-Single-Strike">
 
-# **Iron-Jugulis** wants to brighten your day!
+# You have been greeted by **Urshifu-Single-Strike**
 
 <table>
 <tr>
-<td align="center"><strong>#993</strong></td>
-<td align="center"><strong>Dark / Flying</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>111.0 kg</strong></td>
+<td align="center"><strong>#892</strong></td>
+<td align="center"><strong>Fighting / Dark</strong></td>
+<td align="center"><strong>1.9 m</strong></td>
+<td align="center"><strong>105.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Quark Drive**
+**Unseen Fist**
 
-### 📊 Base Stats (Total: 570)
+### 📊 Base Stats (Total: 550)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 108 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 97 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: December 23, 2025 at 15:31 UTC*
+*Last updated: December 28, 2025 at 01:12 UTC*
 
 ---
 

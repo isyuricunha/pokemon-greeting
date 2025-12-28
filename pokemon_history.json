@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-17T00:59:57.346711",
-    "pokemon_id": 953,
-    "pokemon_name": "Rellor",
-    "types": "Bug"
-  },
-  {
     "timestamp": "2025-09-18T00:59:35.629197",
     "pokemon_id": 470,
     "pokemon_name": "Leafeon",
@@ -598,5 +592,11 @@
     "pokemon_id": 993,
     "pokemon_name": "Iron-Jugulis",
     "types": "Dark / Flying"
+  },
+  {
+    "timestamp": "2025-12-28T01:12:05.819941",
+    "pokemon_id": 892,
+    "pokemon_name": "Urshifu-Single-Strike",
+    "types": "Fighting / Dark"
   }
 ]
