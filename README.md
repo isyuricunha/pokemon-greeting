@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png" width="250" height="250" alt="Urshifu-Single-Strike">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png" width="250" height="250" alt="Ceruledge">
 
-# You have been greeted by **Urshifu-Single-Strike**
+# **Ceruledge** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#892</strong></td>
-<td align="center"><strong>Fighting / Dark</strong></td>
-<td align="center"><strong>1.9 m</strong></td>
-<td align="center"><strong>105.0 kg</strong></td>
+<td align="center"><strong>#937</strong></td>
+<td align="center"><strong>Fire / Ghost</strong></td>
+<td align="center"><strong>1.6 m</strong></td>
+<td align="center"><strong>62.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Unseen Fist**
+**Flash Fire, Weak Armor**
 
-### 📊 Base Stats (Total: 550)
+### 📊 Base Stats (Total: 525)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
-| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 97 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: December 28, 2025 at 01:12 UTC*
+*Last updated: January 04, 2026 at 01:12 UTC*
 
 ---
 
