@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png" width="250" height="250" alt="Ceruledge">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png" width="250" height="250" alt="Scyther">
 
-# **Ceruledge** is here to wish you well!
+# Say hello to **Scyther**!
 
 <table>
 <tr>
-<td align="center"><strong>#937</strong></td>
-<td align="center"><strong>Fire / Ghost</strong></td>
-<td align="center"><strong>1.6 m</strong></td>
-<td align="center"><strong>62.0 kg</strong></td>
+<td align="center"><strong>#123</strong></td>
+<td align="center"><strong>Bug / Flying</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>56.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Flash Fire, Weak Armor**
+**Swarm, Technician**
 
-### 📊 Base Stats (Total: 525)
+### 📊 Base Stats (Total: 500)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 | 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: January 04, 2026 at 01:12 UTC*
+*Last updated: January 11, 2026 at 01:12 UTC*
 
 ---
 
