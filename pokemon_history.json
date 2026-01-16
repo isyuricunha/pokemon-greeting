@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20T00:59:05.225547",
-    "pokemon_id": 50,
-    "pokemon_name": "Diglett",
-    "types": "Ground"
-  },
-  {
     "timestamp": "2025-09-21T01:06:44.373014",
     "pokemon_id": 472,
     "pokemon_name": "Gliscor",
@@ -598,5 +592,11 @@
     "pokemon_id": 123,
     "pokemon_name": "Scyther",
     "types": "Bug / Flying"
+  },
+  {
+    "timestamp": "2026-01-16T12:31:19.719887",
+    "pokemon_id": 171,
+    "pokemon_name": "Lanturn",
+    "types": "Water / Electric"
   }
 ]

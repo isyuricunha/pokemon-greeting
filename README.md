@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png" width="250" height="250" alt="Scyther">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png" width="250" height="250" alt="Lanturn">
 
-# Say hello to **Scyther**!
+# You have been greeted by **Lanturn**
 
 <table>
 <tr>
-<td align="center"><strong>#123</strong></td>
-<td align="center"><strong>Bug / Flying</strong></td>
-<td align="center"><strong>1.5 m</strong></td>
-<td align="center"><strong>56.0 kg</strong></td>
+<td align="center"><strong>#171</strong></td>
+<td align="center"><strong>Water / Electric</strong></td>
+<td align="center"><strong>1.2 m</strong></td>
+<td align="center"><strong>22.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,24 +20,24 @@
 </table>
 
 ### 🎯 Abilities
-**Swarm, Technician**
+**Volt Absorb, Illuminate**
 
-### 📊 Base Stats (Total: 500)
+### 📊 Base Stats (Total: 460)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚔️ Attack | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: January 11, 2026 at 01:12 UTC*
+*Last updated: January 16, 2026 at 12:31 UTC*
 
 ---
 
-🌟 **This README is automatically updated every 24 hours with a new Pokémon greeting!** 🌟<br>
-Powered by [PokéAPI](https://pokeapi.co/) | Made with ❤️ by [@isyuricunha](https://github.com/isyuricunha)
+🌟 **This README is automatically updated every 7 days with a new Pokémon greeting!** 🌟<br>
+Powered by [PokéAPI](https://pokeapi.co/) | Made by [@isyuricunha](https://github.com/isyuricunha), WITHOUT AI.
 
 </div>
