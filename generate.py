@@ -206,8 +206,8 @@ def generate_readme_content(pokemon_data: Dict, sprite_url: str, pokemon_info: D
 
 ---
 
-🌟 **This README is automatically updated every 24 hours with a new Pokémon greeting!** 🌟<br>
-Powered by [PokéAPI](https://pokeapi.co/) | Made with ❤️ by [@isyuricunha](https://github.com/isyuricunha)
+🌟 **This README is automatically updated every 7 days with a new Pokémon greeting!** 🌟<br>
+Powered by [PokéAPI](https://pokeapi.co/) | Made by [@isyuricunha](https://github.com/isyuricunha), WITHOUT AI.
 
 </div>'''
     
