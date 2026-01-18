@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png" width="250" height="250" alt="Lanturn">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png" width="250" height="250" alt="Barbaracle">
 
-# You have been greeted by **Lanturn**
+# You have been greeted by **Barbaracle**
 
 <table>
 <tr>
-<td align="center"><strong>#171</strong></td>
-<td align="center"><strong>Water / Electric</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>22.5 kg</strong></td>
+<td align="center"><strong>#689</strong></td>
+<td align="center"><strong>Rock / Water</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>96.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Volt Absorb, Illuminate**
+**Tough Claws, Sniper**
 
-### 📊 Base Stats (Total: 460)
+### 📊 Base Stats (Total: 500)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚔️ Attack | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 72 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: January 16, 2026 at 12:31 UTC*
+*Last updated: January 18, 2026 at 01:11 UTC*
 
 ---
 

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-21T01:06:44.373014",
-    "pokemon_id": 472,
-    "pokemon_name": "Gliscor",
-    "types": "Ground / Flying"
-  },
-  {
     "timestamp": "2025-09-22T01:06:06.781815",
     "pokemon_id": 305,
     "pokemon_name": "Lairon",
@@ -598,5 +592,11 @@
     "pokemon_id": 171,
     "pokemon_name": "Lanturn",
     "types": "Water / Electric"
+  },
+  {
+    "timestamp": "2026-01-18T01:11:39.207474",
+    "pokemon_id": 689,
+    "pokemon_name": "Barbaracle",
+    "types": "Rock / Water"
   }
 ]
