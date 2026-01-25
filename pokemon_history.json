@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-22T01:06:06.781815",
-    "pokemon_id": 305,
-    "pokemon_name": "Lairon",
-    "types": "Steel / Rock"
-  },
-  {
     "timestamp": "2025-09-23T01:00:06.122176",
     "pokemon_id": 976,
     "pokemon_name": "Veluza",
@@ -598,5 +592,11 @@
     "pokemon_id": 689,
     "pokemon_name": "Barbaracle",
     "types": "Rock / Water"
+  },
+  {
+    "timestamp": "2026-01-25T01:13:47.568938",
+    "pokemon_id": 289,
+    "pokemon_name": "Slaking",
+    "types": "Normal"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png" width="250" height="250" alt="Barbaracle">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png" width="250" height="250" alt="Slaking">
 
-# You have been greeted by **Barbaracle**
+# **Slaking** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#689</strong></td>
-<td align="center"><strong>Rock / Water</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>96.0 kg</strong></td>
+<td align="center"><strong>#289</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>2.0 m</strong></td>
+<td align="center"><strong>130.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Tough Claws, Sniper**
+**Truant**
 
-### 📊 Base Stats (Total: 500)
+### 📊 Base Stats (Total: 670)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 72 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 105 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 150 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
+| ⚔️ Attack | 160 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
+| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: January 18, 2026 at 01:11 UTC*
+*Last updated: January 25, 2026 at 01:13 UTC*
 
 ---
 
