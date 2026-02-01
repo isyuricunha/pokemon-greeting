@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png" width="250" height="250" alt="Slaking">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png" width="250" height="250" alt="Ho-Oh">
 
-# **Slaking** sends you positive vibes!
+# Greetings from **Ho-Oh**!
 
 <table>
 <tr>
-<td align="center"><strong>#289</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>2.0 m</strong></td>
-<td align="center"><strong>130.5 kg</strong></td>
+<td align="center"><strong>#250</strong></td>
+<td align="center"><strong>Fire / Flying</strong></td>
+<td align="center"><strong>3.8 m</strong></td>
+<td align="center"><strong>199.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Truant**
+**Pressure, Regenerator**
 
-### 📊 Base Stats (Total: 670)
+### 📊 Base Stats (Total: 680)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 150 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` |
-| ⚔️ Attack | 160 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` |
-| 🛡️ Defense | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: January 25, 2026 at 01:13 UTC*
+*Last updated: February 01, 2026 at 01:29 UTC*
 
 ---
 

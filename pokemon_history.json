@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23T01:00:06.122176",
-    "pokemon_id": 976,
-    "pokemon_name": "Veluza",
-    "types": "Water / Psychic"
-  },
-  {
     "timestamp": "2025-09-24T01:01:01.485679",
     "pokemon_id": 544,
     "pokemon_name": "Whirlipede",
@@ -598,5 +592,11 @@
     "pokemon_id": 289,
     "pokemon_name": "Slaking",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2026-02-01T01:29:09.416215",
+    "pokemon_id": 250,
+    "pokemon_name": "Ho-Oh",
+    "types": "Fire / Flying"
   }
 ]
