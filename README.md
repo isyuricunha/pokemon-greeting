@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png" width="250" height="250" alt="Ho-Oh">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png" width="250" height="250" alt="Comfey">
 
-# Greetings from **Ho-Oh**!
+# Say hello to **Comfey**!
 
 <table>
 <tr>
-<td align="center"><strong>#250</strong></td>
-<td align="center"><strong>Fire / Flying</strong></td>
-<td align="center"><strong>3.8 m</strong></td>
-<td align="center"><strong>199.0 kg</strong></td>
+<td align="center"><strong>#764</strong></td>
+<td align="center"><strong>Fairy</strong></td>
+<td align="center"><strong>0.1 m</strong></td>
+<td align="center"><strong>0.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Pressure, Regenerator**
+**Flower Veil, Triage**
 
-### 📊 Base Stats (Total: 680)
+### 📊 Base Stats (Total: 485)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚔️ Attack | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ❤️ HP | 51 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 52 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 | 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: February 01, 2026 at 01:29 UTC*
+*Last updated: February 08, 2026 at 01:53 UTC*
 
 ---
 

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-24T01:01:01.485679",
-    "pokemon_id": 544,
-    "pokemon_name": "Whirlipede",
-    "types": "Bug / Poison"
-  },
-  {
     "timestamp": "2025-09-25T01:01:45.953033",
     "pokemon_id": 31,
     "pokemon_name": "Nidoqueen",
@@ -598,5 +592,11 @@
     "pokemon_id": 250,
     "pokemon_name": "Ho-Oh",
     "types": "Fire / Flying"
+  },
+  {
+    "timestamp": "2026-02-08T01:53:09.382032",
+    "pokemon_id": 764,
+    "pokemon_name": "Comfey",
+    "types": "Fairy"
   }
 ]
