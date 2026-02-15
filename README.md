@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png" width="250" height="250" alt="Comfey">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" width="250" height="250" alt="Mr-Mime">
 
-# Say hello to **Comfey**!
+# **Mr-Mime** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#764</strong></td>
-<td align="center"><strong>Fairy</strong></td>
-<td align="center"><strong>0.1 m</strong></td>
-<td align="center"><strong>0.3 kg</strong></td>
+<td align="center"><strong>#122</strong></td>
+<td align="center"><strong>Psychic / Fairy</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>54.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Flower Veil, Triage**
+**Soundproof, Filter**
 
-### 📊 Base Stats (Total: 485)
+### 📊 Base Stats (Total: 460)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 51 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 52 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: February 08, 2026 at 01:53 UTC*
+*Last updated: February 15, 2026 at 01:25 UTC*
 
 ---
 
