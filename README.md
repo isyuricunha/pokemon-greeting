@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" width="250" height="250" alt="Mr-Mime">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png" width="250" height="250" alt="Sinistcha">
 
-# **Mr-Mime** sends you positive vibes!
+# Say hello to **Sinistcha**!
 
 <table>
 <tr>
-<td align="center"><strong>#122</strong></td>
-<td align="center"><strong>Psychic / Fairy</strong></td>
-<td align="center"><strong>1.3 m</strong></td>
-<td align="center"><strong>54.5 kg</strong></td>
+<td align="center"><strong>#1013</strong></td>
+<td align="center"><strong>Grass / Ghost</strong></td>
+<td align="center"><strong>0.2 m</strong></td>
+<td align="center"><strong>2.2 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Soundproof, Filter**
+**Hospitality, Heatproof**
 
-### 📊 Base Stats (Total: 460)
+### 📊 Base Stats (Total: 508)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 71 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: February 15, 2026 at 01:25 UTC*
+*Last updated: February 22, 2026 at 01:21 UTC*
 
 ---
 
