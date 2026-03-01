@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27T00:58:44.708727",
-    "pokemon_id": 698,
-    "pokemon_name": "Amaura",
-    "types": "Rock / Ice"
-  },
-  {
     "timestamp": "2025-09-28T01:07:30.928480",
     "pokemon_id": 145,
     "pokemon_name": "Zapdos",
@@ -598,5 +592,11 @@
     "pokemon_id": 1013,
     "pokemon_name": "Sinistcha",
     "types": "Grass / Ghost"
+  },
+  {
+    "timestamp": "2026-03-01T01:27:10.988939",
+    "pokemon_id": 464,
+    "pokemon_name": "Rhyperior",
+    "types": "Ground / Rock"
   }
 ]

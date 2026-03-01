@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png" width="250" height="250" alt="Sinistcha">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png" width="250" height="250" alt="Rhyperior">
 
-# Say hello to **Sinistcha**!
+# **Rhyperior** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#1013</strong></td>
-<td align="center"><strong>Grass / Ghost</strong></td>
-<td align="center"><strong>0.2 m</strong></td>
-<td align="center"><strong>2.2 kg</strong></td>
+<td align="center"><strong>#464</strong></td>
+<td align="center"><strong>Ground / Rock</strong></td>
+<td align="center"><strong>2.4 m</strong></td>
+<td align="center"><strong>282.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Hospitality, Heatproof**
+**Lightning Rod, Solid Rock**
 
-### 📊 Base Stats (Total: 508)
+### 📊 Base Stats (Total: 535)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 71 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 106 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚔️ Attack | 140 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| 🛡️ Defense | 130 | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: February 22, 2026 at 01:21 UTC*
+*Last updated: March 01, 2026 at 01:27 UTC*
 
 ---
 
