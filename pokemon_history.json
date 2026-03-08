@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28T01:07:30.928480",
-    "pokemon_id": 145,
-    "pokemon_name": "Zapdos",
-    "types": "Electric / Flying"
-  },
-  {
     "timestamp": "2025-09-29T01:02:51.307347",
     "pokemon_id": 76,
     "pokemon_name": "Golem",
@@ -598,5 +592,11 @@
     "pokemon_id": 464,
     "pokemon_name": "Rhyperior",
     "types": "Ground / Rock"
+  },
+  {
+    "timestamp": "2026-03-08T01:20:39.662652",
+    "pokemon_id": 569,
+    "pokemon_name": "Garbodor",
+    "types": "Poison"
   }
 ]
