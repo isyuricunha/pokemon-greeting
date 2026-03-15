@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png" width="250" height="250" alt="Garbodor">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png" width="250" height="250" alt="Musharna">
 
-# **Garbodor** sends you positive vibes!
+# Say hello to **Musharna**!
 
 <table>
 <tr>
-<td align="center"><strong>#569</strong></td>
-<td align="center"><strong>Poison</strong></td>
-<td align="center"><strong>1.9 m</strong></td>
-<td align="center"><strong>107.3 kg</strong></td>
+<td align="center"><strong>#518</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>60.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Stench, Weak Armor**
+**Forewarn, Synchronize**
 
-### 📊 Base Stats (Total: 474)
+### 📊 Base Stats (Total: 487)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 116 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 29 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: March 08, 2026 at 01:20 UTC*
+*Last updated: March 15, 2026 at 01:30 UTC*
 
 ---
 
