@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30T01:02:01.132527",
-    "pokemon_id": 608,
-    "pokemon_name": "Lampent",
-    "types": "Ghost / Fire"
-  },
-  {
     "timestamp": "2025-10-01T01:08:26.147572",
     "pokemon_id": 252,
     "pokemon_name": "Treecko",
@@ -598,5 +592,11 @@
     "pokemon_id": 518,
     "pokemon_name": "Musharna",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2026-03-22T01:24:04.044276",
+    "pokemon_id": 559,
+    "pokemon_name": "Scraggy",
+    "types": "Dark / Fighting"
   }
 ]

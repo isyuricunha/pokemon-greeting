@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png" width="250" height="250" alt="Musharna">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png" width="250" height="250" alt="Scraggy">
 
-# Say hello to **Musharna**!
+# **Scraggy** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#518</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>1.1 m</strong></td>
-<td align="center"><strong>60.5 kg</strong></td>
+<td align="center"><strong>#559</strong></td>
+<td align="center"><strong>Dark / Fighting</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>11.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Forewarn, Synchronize**
+**Shed Skin, Moxie**
 
-### 📊 Base Stats (Total: 487)
+### 📊 Base Stats (Total: 348)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 116 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 29 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a fantastic day! ✨
 
-*Last updated: March 15, 2026 at 01:30 UTC*
+*Last updated: March 22, 2026 at 01:24 UTC*
 
 ---
 
