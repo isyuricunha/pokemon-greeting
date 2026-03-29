@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png" width="250" height="250" alt="Scraggy">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png" width="250" height="250" alt="Sealeo">
 
-# **Scraggy** is here to wish you well!
+# **Sealeo** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#559</strong></td>
-<td align="center"><strong>Dark / Fighting</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>11.8 kg</strong></td>
+<td align="center"><strong>#364</strong></td>
+<td align="center"><strong>Ice / Water</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>87.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Shed Skin, Moxie**
+**Thick Fat, Ice Body**
 
-### 📊 Base Stats (Total: 348)
+### 📊 Base Stats (Total: 410)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 | 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: March 22, 2026 at 01:24 UTC*
+*Last updated: March 29, 2026 at 01:44 UTC*
 
 ---
 

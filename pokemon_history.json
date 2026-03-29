@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01T01:08:26.147572",
-    "pokemon_id": 252,
-    "pokemon_name": "Treecko",
-    "types": "Grass"
-  },
-  {
     "timestamp": "2025-10-02T01:00:00.165175",
     "pokemon_id": 121,
     "pokemon_name": "Starmie",
@@ -598,5 +592,11 @@
     "pokemon_id": 559,
     "pokemon_name": "Scraggy",
     "types": "Dark / Fighting"
+  },
+  {
+    "timestamp": "2026-03-29T01:44:14.803278",
+    "pokemon_id": 364,
+    "pokemon_name": "Sealeo",
+    "types": "Ice / Water"
   }
 ]
