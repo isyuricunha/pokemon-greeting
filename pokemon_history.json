@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02T01:00:00.165175",
-    "pokemon_id": 121,
-    "pokemon_name": "Starmie",
-    "types": "Water / Psychic"
-  },
-  {
     "timestamp": "2025-10-03T00:59:53.687106",
     "pokemon_id": 553,
     "pokemon_name": "Krookodile",
@@ -598,5 +592,11 @@
     "pokemon_id": 364,
     "pokemon_name": "Sealeo",
     "types": "Ice / Water"
+  },
+  {
+    "timestamp": "2026-04-05T01:45:36.001019",
+    "pokemon_id": 421,
+    "pokemon_name": "Cherrim",
+    "types": "Grass"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png" width="250" height="250" alt="Sealeo">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png" width="250" height="250" alt="Cherrim">
 
-# **Sealeo** is here to wish you well!
+# **Cherrim** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#364</strong></td>
-<td align="center"><strong>Ice / Water</strong></td>
-<td align="center"><strong>1.1 m</strong></td>
-<td align="center"><strong>87.6 kg</strong></td>
+<td align="center"><strong>#421</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>9.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Thick Fat, Ice Body**
+**Flower Gift**
 
-### 📊 Base Stats (Total: 410)
+### 📊 Base Stats (Total: 450)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 | ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 | 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
 ## ✨ Wishing you happiness and success! ✨
 
-*Last updated: March 29, 2026 at 01:44 UTC*
+*Last updated: April 05, 2026 at 01:45 UTC*
 
 ---
 
