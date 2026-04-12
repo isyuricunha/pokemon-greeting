@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03T00:59:53.687106",
-    "pokemon_id": 553,
-    "pokemon_name": "Krookodile",
-    "types": "Ground / Dark"
-  },
-  {
     "timestamp": "2025-10-04T00:57:56.278461",
     "pokemon_id": 1020,
     "pokemon_name": "Gouging-Fire",
@@ -598,5 +592,11 @@
     "pokemon_id": 421,
     "pokemon_name": "Cherrim",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2026-04-12T01:49:57.141510",
+    "pokemon_id": 444,
+    "pokemon_name": "Gabite",
+    "types": "Dragon / Ground"
   }
 ]

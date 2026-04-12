@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png" width="250" height="250" alt="Cherrim">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" width="250" height="250" alt="Gabite">
 
-# **Cherrim** sends you positive vibes!
+# You have been greeted by **Gabite**
 
 <table>
 <tr>
-<td align="center"><strong>#421</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>9.3 kg</strong></td>
+<td align="center"><strong>#444</strong></td>
+<td align="center"><strong>Dragon / Ground</strong></td>
+<td align="center"><strong>1.4 m</strong></td>
+<td align="center"><strong>56.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Flower Gift**
+**Sand Veil, Rough Skin**
 
-### 📊 Base Stats (Total: 450)
+### 📊 Base Stats (Total: 410)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: April 05, 2026 at 01:45 UTC*
+*Last updated: April 12, 2026 at 01:49 UTC*
 
 ---
 
