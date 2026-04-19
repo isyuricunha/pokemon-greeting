@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png" width="250" height="250" alt="Gabite">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png" width="250" height="250" alt="Ponyta">
 
-# You have been greeted by **Gabite**
+# A wild **Ponyta** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#444</strong></td>
-<td align="center"><strong>Dragon / Ground</strong></td>
-<td align="center"><strong>1.4 m</strong></td>
-<td align="center"><strong>56.0 kg</strong></td>
+<td align="center"><strong>#077</strong></td>
+<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>30.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Sand Veil, Rough Skin**
+**Run Away, Flash Fire**
 
 ### 📊 Base Stats (Total: 410)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: April 12, 2026 at 01:49 UTC*
+*Last updated: April 19, 2026 at 01:54 UTC*
 
 ---
 

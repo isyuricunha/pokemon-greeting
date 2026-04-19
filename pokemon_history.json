@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04T00:57:56.278461",
-    "pokemon_id": 1020,
-    "pokemon_name": "Gouging-Fire",
-    "types": "Fire / Dragon"
-  },
-  {
     "timestamp": "2025-10-05T01:06:29.968584",
     "pokemon_id": 191,
     "pokemon_name": "Sunkern",
@@ -598,5 +592,11 @@
     "pokemon_id": 444,
     "pokemon_name": "Gabite",
     "types": "Dragon / Ground"
+  },
+  {
+    "timestamp": "2026-04-19T01:54:21.391457",
+    "pokemon_id": 77,
+    "pokemon_name": "Ponyta",
+    "types": "Fire"
   }
 ]
