@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T01:01:59.409190",
-    "pokemon_id": 305,
-    "pokemon_name": "Lairon",
-    "types": "Steel / Rock"
-  },
-  {
     "timestamp": "2025-10-07T01:01:17.263369",
     "pokemon_id": 244,
     "pokemon_name": "Entei",
@@ -598,5 +592,11 @@
     "pokemon_id": 648,
     "pokemon_name": "Meloetta-Aria",
     "types": "Normal / Psychic"
+  },
+  {
+    "timestamp": "2026-05-03T02:03:54.085007",
+    "pokemon_id": 280,
+    "pokemon_name": "Ralts",
+    "types": "Psychic / Fairy"
   }
 ]

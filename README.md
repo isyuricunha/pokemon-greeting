@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png" width="250" height="250" alt="Meloetta-Aria">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png" width="250" height="250" alt="Ralts">
 
-# You have been greeted by **Meloetta-Aria**
+# A wild **Ralts** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#648</strong></td>
-<td align="center"><strong>Normal / Psychic</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>6.5 kg</strong></td>
+<td align="center"><strong>#280</strong></td>
+<td align="center"><strong>Psychic / Fairy</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>6.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Serene Grace**
+**Synchronize, Trace**
 
-### 📊 Base Stats (Total: 600)
+### 📊 Base Stats (Total: 198)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 28 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: April 26, 2026 at 01:57 UTC*
+*Last updated: May 03, 2026 at 02:03 UTC*
 
 ---
 
