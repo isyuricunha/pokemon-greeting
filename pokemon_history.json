@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08T01:00:23.233494",
-    "pokemon_id": 604,
-    "pokemon_name": "Eelektross",
-    "types": "Electric"
-  },
-  {
     "timestamp": "2025-10-09T01:02:14.257380",
     "pokemon_id": 165,
     "pokemon_name": "Ledyba",
@@ -598,5 +592,11 @@
     "pokemon_id": 54,
     "pokemon_name": "Psyduck",
     "types": "Water"
+  },
+  {
+    "timestamp": "2026-05-17T02:13:47.822141",
+    "pokemon_id": 978,
+    "pokemon_name": "Tatsugiri-Curly",
+    "types": "Dragon / Water"
   }
 ]

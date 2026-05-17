@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="250" height="250" alt="Psyduck">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png" width="250" height="250" alt="Tatsugiri-Curly">
 
-# Greetings from **Psyduck**!
+# You have been greeted by **Tatsugiri-Curly**
 
 <table>
 <tr>
-<td align="center"><strong>#054</strong></td>
-<td align="center"><strong>Water</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>19.6 kg</strong></td>
+<td align="center"><strong>#978</strong></td>
+<td align="center"><strong>Dragon / Water</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>8.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Damp, Cloud Nine**
+**Commander, Storm Drain**
 
-### 📊 Base Stats (Total: 320)
+### 📊 Base Stats (Total: 475)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 52 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: May 10, 2026 at 02:07 UTC*
+*Last updated: May 17, 2026 at 02:13 UTC*
 
 ---
 
