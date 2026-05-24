@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09T01:02:14.257380",
-    "pokemon_id": 165,
-    "pokemon_name": "Ledyba",
-    "types": "Bug / Flying"
-  },
-  {
     "timestamp": "2025-10-10T01:01:05.768939",
     "pokemon_id": 314,
     "pokemon_name": "Illumise",
@@ -598,5 +592,11 @@
     "pokemon_id": 978,
     "pokemon_name": "Tatsugiri-Curly",
     "types": "Dragon / Water"
+  },
+  {
+    "timestamp": "2026-05-24T02:31:08.428760",
+    "pokemon_id": 528,
+    "pokemon_name": "Swoobat",
+    "types": "Psychic / Flying"
   }
 ]

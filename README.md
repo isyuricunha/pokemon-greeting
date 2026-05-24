@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png" width="250" height="250" alt="Tatsugiri-Curly">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png" width="250" height="250" alt="Swoobat">
 
-# You have been greeted by **Tatsugiri-Curly**
+# A wild **Swoobat** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#978</strong></td>
-<td align="center"><strong>Dragon / Water</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>8.0 kg</strong></td>
+<td align="center"><strong>#528</strong></td>
+<td align="center"><strong>Psychic / Flying</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>10.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Commander, Storm Drain**
+**Unaware, Klutz**
 
-### 📊 Base Stats (Total: 475)
+### 📊 Base Stats (Total: 425)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 68 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 57 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 114 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: May 17, 2026 at 02:13 UTC*
+*Last updated: May 24, 2026 at 02:31 UTC*
 
 ---
 
