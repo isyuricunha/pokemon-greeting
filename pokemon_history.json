@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10T01:01:05.768939",
-    "pokemon_id": 314,
-    "pokemon_name": "Illumise",
-    "types": "Bug"
-  },
-  {
     "timestamp": "2025-10-11T00:58:31.953223",
     "pokemon_id": 940,
     "pokemon_name": "Wattrel",
@@ -598,5 +592,11 @@
     "pokemon_id": 528,
     "pokemon_name": "Swoobat",
     "types": "Psychic / Flying"
+  },
+  {
+    "timestamp": "2026-05-31T02:40:17.442219",
+    "pokemon_id": 556,
+    "pokemon_name": "Maractus",
+    "types": "Grass"
   }
 ]
