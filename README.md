@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png" width="250" height="250" alt="Maractus">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png" width="250" height="250" alt="Tinkaton">
 
-# **Maractus** is here to wish you well!
+# **Tinkaton** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#556</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>28.0 kg</strong></td>
+<td align="center"><strong>#959</strong></td>
+<td align="center"><strong>Fairy / Steel</strong></td>
+<td align="center"><strong>0.7 m</strong></td>
+<td align="center"><strong>112.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Water Absorb, Chlorophyll**
+**Mold Breaker, Own Tempo**
 
-### 📊 Base Stats (Total: 461)
+### 📊 Base Stats (Total: 506)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 86 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
 ## ✨ Have a wonderful day! ✨
 
-*Last updated: May 31, 2026 at 02:40 UTC*
+*Last updated: June 07, 2026 at 02:44 UTC*
 
 ---
 

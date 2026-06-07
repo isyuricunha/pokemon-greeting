@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11T00:58:31.953223",
-    "pokemon_id": 940,
-    "pokemon_name": "Wattrel",
-    "types": "Electric / Flying"
-  },
-  {
     "timestamp": "2025-10-12T01:04:19.291848",
     "pokemon_id": 88,
     "pokemon_name": "Grimer",
@@ -598,5 +592,11 @@
     "pokemon_id": 556,
     "pokemon_name": "Maractus",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2026-06-07T02:44:00.872523",
+    "pokemon_id": 959,
+    "pokemon_name": "Tinkaton",
+    "types": "Fairy / Steel"
   }
 ]
