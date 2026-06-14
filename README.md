@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png" width="250" height="250" alt="Tinkaton">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png" width="250" height="250" alt="Ducklett">
 
-# **Tinkaton** sends you positive vibes!
+# **Ducklett** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#959</strong></td>
-<td align="center"><strong>Fairy / Steel</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>112.8 kg</strong></td>
+<td align="center"><strong>#580</strong></td>
+<td align="center"><strong>Water / Flying</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>5.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Mold Breaker, Own Tempo**
+**Keen Eye, Big Pecks**
 
-### 📊 Base Stats (Total: 506)
+### 📊 Base Stats (Total: 305)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 62 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: June 07, 2026 at 02:44 UTC*
+*Last updated: June 14, 2026 at 02:48 UTC*
 
 ---
 
