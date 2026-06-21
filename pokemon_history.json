@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-13T01:05:43.779241",
-    "pokemon_id": 448,
-    "pokemon_name": "Lucario",
-    "types": "Fighting / Steel"
-  },
-  {
     "timestamp": "2025-10-14T01:01:29.220573",
     "pokemon_id": 519,
     "pokemon_name": "Pidove",
@@ -598,5 +592,11 @@
     "pokemon_id": 580,
     "pokemon_name": "Ducklett",
     "types": "Water / Flying"
+  },
+  {
+    "timestamp": "2026-06-21T02:51:56.610694",
+    "pokemon_id": 629,
+    "pokemon_name": "Vullaby",
+    "types": "Dark / Flying"
   }
 ]

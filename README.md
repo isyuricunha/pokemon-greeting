@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png" width="250" height="250" alt="Ducklett">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png" width="250" height="250" alt="Vullaby">
 
-# **Ducklett** is here to wish you well!
+# Greetings from **Vullaby**!
 
 <table>
 <tr>
-<td align="center"><strong>#580</strong></td>
-<td align="center"><strong>Water / Flying</strong></td>
+<td align="center"><strong>#629</strong></td>
+<td align="center"><strong>Dark / Flying</strong></td>
 <td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>5.5 kg</strong></td>
+<td align="center"><strong>9.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Big Pecks**
+**Big Pecks, Overcoat**
 
-### 📊 Base Stats (Total: 305)
+### 📊 Base Stats (Total: 370)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 62 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: June 14, 2026 at 02:48 UTC*
+*Last updated: June 21, 2026 at 02:51 UTC*
 
 ---
 
