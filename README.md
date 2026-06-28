@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png" width="250" height="250" alt="Vullaby">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png" width="250" height="250" alt="Hoppip">
 
-# Greetings from **Vullaby**!
+# **Hoppip** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#629</strong></td>
-<td align="center"><strong>Dark / Flying</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>9.0 kg</strong></td>
+<td align="center"><strong>#187</strong></td>
+<td align="center"><strong>Grass / Flying</strong></td>
+<td align="center"><strong>0.4 m</strong></td>
+<td align="center"><strong>0.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Big Pecks, Overcoat**
+**Chlorophyll, Leaf Guard**
 
-### 📊 Base Stats (Total: 370)
+### 📊 Base Stats (Total: 250)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: June 21, 2026 at 02:51 UTC*
+*Last updated: June 28, 2026 at 02:40 UTC*
 
 ---
 

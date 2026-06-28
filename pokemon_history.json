@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14T01:01:29.220573",
-    "pokemon_id": 519,
-    "pokemon_name": "Pidove",
-    "types": "Normal / Flying"
-  },
-  {
     "timestamp": "2025-10-15T01:02:54.003457",
     "pokemon_id": 268,
     "pokemon_name": "Cascoon",
@@ -598,5 +592,11 @@
     "pokemon_id": 629,
     "pokemon_name": "Vullaby",
     "types": "Dark / Flying"
+  },
+  {
+    "timestamp": "2026-06-28T02:40:39.773478",
+    "pokemon_id": 187,
+    "pokemon_name": "Hoppip",
+    "types": "Grass / Flying"
   }
 ]
