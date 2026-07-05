@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png" width="250" height="250" alt="Hoppip">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png" width="250" height="250" alt="Spidops">
 
-# **Hoppip** wants to brighten your day!
+# Greetings from **Spidops**!
 
 <table>
 <tr>
-<td align="center"><strong>#187</strong></td>
-<td align="center"><strong>Grass / Flying</strong></td>
-<td align="center"><strong>0.4 m</strong></td>
-<td align="center"><strong>0.5 kg</strong></td>
+<td align="center"><strong>#918</strong></td>
+<td align="center"><strong>Bug</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>16.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Chlorophyll, Leaf Guard**
+**Insomnia, Stakeout**
 
-### 📊 Base Stats (Total: 250)
+### 📊 Base Stats (Total: 404)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: June 28, 2026 at 02:40 UTC*
+*Last updated: July 05, 2026 at 02:12 UTC*
 
 ---
 

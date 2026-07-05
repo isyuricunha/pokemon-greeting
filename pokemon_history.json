@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15T01:02:54.003457",
-    "pokemon_id": 268,
-    "pokemon_name": "Cascoon",
-    "types": "Bug"
-  },
-  {
     "timestamp": "2025-10-16T01:02:36.514608",
     "pokemon_id": 699,
     "pokemon_name": "Aurorus",
@@ -598,5 +592,11 @@
     "pokemon_id": 187,
     "pokemon_name": "Hoppip",
     "types": "Grass / Flying"
+  },
+  {
+    "timestamp": "2026-07-05T02:12:39.745925",
+    "pokemon_id": 918,
+    "pokemon_name": "Spidops",
+    "types": "Bug"
   }
 ]
