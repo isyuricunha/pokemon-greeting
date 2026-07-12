@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png" width="250" height="250" alt="Spidops">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png" width="250" height="250" alt="Girafarig">
 
-# Greetings from **Spidops**!
+# **Girafarig** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#918</strong></td>
-<td align="center"><strong>Bug</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>16.5 kg</strong></td>
+<td align="center"><strong>#203</strong></td>
+<td align="center"><strong>Normal / Psychic</strong></td>
+<td align="center"><strong>1.5 m</strong></td>
+<td align="center"><strong>41.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Insomnia, Stakeout**
+**Inner Focus, Early Bird**
 
-### 📊 Base Stats (Total: 404)
+### 📊 Base Stats (Total: 455)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: July 05, 2026 at 02:12 UTC*
+*Last updated: July 12, 2026 at 01:54 UTC*
 
 ---
 
