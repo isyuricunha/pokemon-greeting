@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17T01:02:13.720943",
-    "pokemon_id": 626,
-    "pokemon_name": "Bouffalant",
-    "types": "Normal"
-  },
-  {
     "timestamp": "2025-10-18T00:59:34.651978",
     "pokemon_id": 687,
     "pokemon_name": "Malamar",
@@ -598,5 +592,11 @@
     "pokemon_id": 203,
     "pokemon_name": "Girafarig",
     "types": "Normal / Psychic"
+  },
+  {
+    "timestamp": "2026-07-19T01:52:53.444167",
+    "pokemon_id": 44,
+    "pokemon_name": "Gloom",
+    "types": "Grass / Poison"
   }
 ]

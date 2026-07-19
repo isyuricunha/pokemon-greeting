@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png" width="250" height="250" alt="Girafarig">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" width="250" height="250" alt="Gloom">
 
-# **Girafarig** wants to brighten your day!
+# A wild **Gloom** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#203</strong></td>
-<td align="center"><strong>Normal / Psychic</strong></td>
-<td align="center"><strong>1.5 m</strong></td>
-<td align="center"><strong>41.5 kg</strong></td>
+<td align="center"><strong>#044</strong></td>
+<td align="center"><strong>Grass / Poison</strong></td>
+<td align="center"><strong>0.8 m</strong></td>
+<td align="center"><strong>8.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Inner Focus, Early Bird**
+**Chlorophyll, Stench**
 
-### 📊 Base Stats (Total: 455)
+### 📊 Base Stats (Total: 395)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: July 12, 2026 at 01:54 UTC*
+*Last updated: July 19, 2026 at 01:52 UTC*
 
 ---
 
