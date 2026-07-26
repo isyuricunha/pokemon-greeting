@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18T00:59:34.651978",
-    "pokemon_id": 687,
-    "pokemon_name": "Malamar",
-    "types": "Dark / Psychic"
-  },
-  {
     "timestamp": "2025-10-19T01:09:56.242592",
     "pokemon_id": 521,
     "pokemon_name": "Unfezant",
@@ -598,5 +592,11 @@
     "pokemon_id": 44,
     "pokemon_name": "Gloom",
     "types": "Grass / Poison"
+  },
+  {
+    "timestamp": "2026-07-26T01:58:07.554434",
+    "pokemon_id": 414,
+    "pokemon_name": "Mothim",
+    "types": "Bug / Flying"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" width="250" height="250" alt="Gloom">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png" width="250" height="250" alt="Mothim">
 
-# A wild **Gloom** appeared to greet you!
+# A wild **Mothim** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#044</strong></td>
-<td align="center"><strong>Grass / Poison</strong></td>
-<td align="center"><strong>0.8 m</strong></td>
-<td align="center"><strong>8.6 kg</strong></td>
+<td align="center"><strong>#414</strong></td>
+<td align="center"><strong>Bug / Flying</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>23.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Chlorophyll, Stench**
+**Swarm, Tinted Lens**
 
-### 📊 Base Stats (Total: 395)
+### 📊 Base Stats (Total: 424)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 66 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
 ## ✨ Have a wonderful day! ✨
 
-*Last updated: July 19, 2026 at 01:52 UTC*
+*Last updated: July 26, 2026 at 01:58 UTC*
 
 ---
 
