@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png" width="250" height="250" alt="Mothim">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png" width="250" height="250" alt="Helioptile">
 
-# A wild **Mothim** appeared to greet you!
+# Greetings from **Helioptile**!
 
 <table>
 <tr>
-<td align="center"><strong>#414</strong></td>
-<td align="center"><strong>Bug / Flying</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>23.3 kg</strong></td>
+<td align="center"><strong>#694</strong></td>
+<td align="center"><strong>Electric / Normal</strong></td>
+<td align="center"><strong>0.5 m</strong></td>
+<td align="center"><strong>6.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swarm, Tinted Lens**
+**Dry Skin, Sand Veil**
 
-### 📊 Base Stats (Total: 424)
+### 📊 Base Stats (Total: 289)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 94 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 66 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 38 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 33 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: July 26, 2026 at 01:58 UTC*
+*Last updated: August 02, 2026 at 01:56 UTC*
 
 ---
 
